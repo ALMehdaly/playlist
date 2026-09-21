@@ -257,7 +257,41 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b45000
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
  
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="ara SPORT",Kuwait Sports HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
  
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="ara SPORT",Kuwait Sports 2 HD
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://xxx.png" group-title="ara SPORT", Jordan Sport 
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
  
  
  
