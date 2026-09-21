@@ -922,6 +922,14 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mp
 
 
 
+EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="Mobily Tv ©" ,Sharjah_TV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sharjah_TV_HD/dash/drm/index.mpd
+
+
+
+ 
 
 
 
@@ -983,10 +991,6 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47425a7e8f7e4030d186559852ae97db:264e7cb9dfd6b9e5c281c97db4c2b4fa
 https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Movies/DASH/ART_Movies.mpd
- 
- 
- 
- 
  
  
  
