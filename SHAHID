@@ -336,6 +336,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",alkhuzama FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e146f6abbcca4e8d916824312f496de4:dcd6c7a441ade43a7baceb777937bc91
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alkhuzama-radio/6f7a99c9c1eef9189c46d24b6cd862bf/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
  
  
