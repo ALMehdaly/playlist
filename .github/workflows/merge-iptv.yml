@@ -1,7 +1,10 @@
 name: Merge M3U Playlists
 
 on:
+  workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - 'ARABIC'
       - 'MySAT'
@@ -12,17 +15,18 @@ on:
       - 'StarzPlay'
       - 'WORLD'
       - 'VOD'
-  workflow_dispatch:
 
 jobs:
   merge:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # ⚠️ ضروري للسماح بعملية push
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Merge playlists
         run: |
@@ -30,17 +34,18 @@ jobs:
           for file in ARABIC MySAT ROTANA SHAHID SHASHA STCtv StarzPlay WORLD VOD; do
             if [ -f "$file" ]; then
               echo "" >> all.m3u
-              # استبعاد سطر #EXTM3U الأصلي وإضافة بقية المحتوى
               grep -v "^#EXTM3U" "$file" >> all.m3u || true
             fi
           done
-          echo "✅ Merged file created:"
-          wc -l all.m3u
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add all.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-merge playlists"
-          git push
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-merge playlists"
+            git push
+          fi
