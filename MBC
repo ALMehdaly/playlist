@@ -107,9 +107,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thaqafeyyah.png" group-title="MBC-SHAHID", thaqafeyyah FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
- 
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mtvlebanon.png" group-title="MBC-SHAHID", mtv-lebanon FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/souriya.png" group-title="MBC-SHAHID", al-souriya FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mbcmood.png" group-title="MBC-SHAHID",MBC MOOD  FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
