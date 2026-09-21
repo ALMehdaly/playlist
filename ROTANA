@@ -1,0 +1,56 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaKhaleejiya.png" group-title="ROTANA",ROTANA khaleejiya
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaDrama.png" group-title="ROTANA",ROTANA Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaComedy.png" group-title="ROTANA",ROTANA Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaCinema.png" group-title="ROTANA",ROTANA Cinema 
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaCinemaMasr.png" group-title="ROTANA",ROTANA Cinema Masr
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaClassic.png" group-title="ROTANA",ROTANA classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaMusic.png" group-title="ROTANA",ROTANA Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaClip.png" group-title="ROTANA",ROTANA Clip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaLBC.png" group-title="ROTANA",LBC
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/RotanaRisala.png" group-title="ROTANA",ALRisala
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8|Referer=https://rotana.net/
+ 
