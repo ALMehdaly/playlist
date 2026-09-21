@@ -7,6 +7,208 @@
 
 
 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/alarabiyaprograms.png" group-title="MBC-SHAHID",alarabiya-programs FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png" group-title="MBC-SHAHID",alarabiya-business FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png" group-title="MBC-SHAHID", ALhadath FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/bigtimeplus.png" group-title="MBC-SHAHID",big-time-plus FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCIraq.png"group-title="MBC-SHAHID",MBC Iraq FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCMasr1.png"group-title="MBC-SHAHID",MBC Masr 1 FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg"group-title="MBC-SHAHID",MBC Masr 2 FHD 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC-SHAHID",MBC Masr Drama FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png"group-title="MBC-SHAHID",MBC Drama FHD 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png"group-title="MBC-SHAHID",MBC+ Drama FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BkuTVss.png"group-title="MBC-SHAHID",MBC4 FHD 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png"group-title="MBC-SHAHID",MBC5 FHD 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEAgd1p.png"group-title="MBC-SHAHID",MBC Bollywood FHD 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/asharq.png" group-title="MBC-SHAHID", asharq FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="MBC-SHAHID",Al Ekhbaria 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sauditv.png"group-title="MBC-SHAHID",Saudi TV HD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sbc.png" group-title="MBC-SHAHID",SBC FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thikrayat.png" group-title="MBC-SHAHID", thikrayat FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thaqafeyyah.png" group-title="MBC-SHAHID", thaqafeyyah FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mtvlebanon.png" group-title="MBC-SHAHID", mtv-lebanon FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mbcmood.png" group-title="MBC-SHAHID",MBC MOOD  FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 usa FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC3.png" group-title="MBC-SHAHID",mbc 3 usa FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCmasr.png" group-title="MBC-SHAHID",mbc masr usa FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC.png" group-title="MBC-SHAHID",mbc drama usa FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC-SHAHID ©", mbc shahid-sports-1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,25 +275,27 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",MBC MAX
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",MBC MAX FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",MBC masr 2
+ 
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",MBC masr 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=541bccb5fa1949768f22f59692e0c3f5:e41c71dc9048bfb9bd3409d5e1786ddc
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
  
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",BIG TIME
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",BIG TIME FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=225ef5eefa134d0d9852ad7685a15f9f:96e793b1c0efd73f1972277855a57bde
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time/2295a0b3be424fb57734cd622aaea0a9/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
  
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/XX_264_Color.png" group-title="MBC-SHAHID ©",saudi-tv FHD
@@ -105,177 +309,30 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/8f1e3b810d2ec5affd6f
 #KODIPROP:inputstream.adaptive.license_key=9ec07da07f0f49269e8294be7f6d8ed3:b455ce11bea6e035624700af805189a5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/716df146d56ac20d3069f43cdb681856/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ksanow.png" group-title="MBC-SHAHID ©",KSA now-tv
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ksanow.png" group-title="MBC-SHAHID ©",KSA now-tv FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f03c2cb0f2d0463eafefd512616a2c7d:f425e04abde1ae93878d13167151476b
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/16cafd0823d5375d9e5ee1109c1489e6/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thikrayat.png" group-title="MBC-SHAHID ©",KSA thikrayat-tv
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thikrayat.png" group-title="MBC-SHAHID ©",KSA thikrayat-tv NEEDUPDATE
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",KSA sunna-tv
+ 
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",KSA sunna-tv FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfc8b5a9efbb484dae6664556413a903:438bab2e597b0aa47367eb2612b14446
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",KSA quran-tv
+ 
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",KSA quran-tv FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
-https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/alarabiyaprograms.png" group-title="MBC-SHAHID",alarabiya-programs FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png" group-title="MBC-SHAHID",alarabiya-business FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png" group-title="MBC-SHAHID", ALhadath FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/bigtimeplus.png" group-title="MBC-SHAHID",big-time-plus FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCIraq.png"group-title="MBC-SHAHID",MBC Iraq FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCMasr1.png"group-title="MBC-SHAHID",MBC Masr 1 FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2II3Cru.jpg"group-title="MBC-SHAHID",MBC Masr 2 FHD 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="MBC-SHAHID",MBC Masr Drama FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdaIfw3.png"group-title="MBC-SHAHID",MBC Drama FHD 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pPb91xM.png"group-title="MBC-SHAHID",MBC+ Drama FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BkuTVss.png"group-title="MBC-SHAHID",MBC4 FHD 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FKBOQLb.png"group-title="MBC-SHAHID",MBC5 FHD 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEAgd1p.png"group-title="MBC-SHAHID",MBC Bollywood FHD 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/asharq.png" group-title="MBC-SHAHID", asharq FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="MBC-SHAHID",Al Ekhbaria 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sauditv.png"group-title="MBC-SHAHID",Saudi TV HD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sbc.png" group-title="MBC-SHAHID",SBC FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thikrayat.png" group-title="MBC-SHAHID", thikrayat FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/thaqafeyyah.png" group-title="MBC-SHAHID", thaqafeyyah FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mtvlebanon.png" group-title="MBC-SHAHID", mtv-lebanon FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mbcmood.png" group-title="MBC-SHAHID",MBC MOOD  FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 usa FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC3.png" group-title="MBC-SHAHID",mbc 3 usa FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCmasr.png" group-title="MBC-SHAHID",mbc masr usa FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC.png" group-title="MBC-SHAHID",mbc drama usa FHD
- 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
