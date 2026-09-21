@@ -917,6 +917,77 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/NatGeo_AbuDhabi_HD/DASH/Nat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0a6079fb90dc835835791c105820d06:2901128b88ce7751fb31b055375a535b
 https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://www.artonline.tv/images/ART_Logo/ART_AFLAM_1w.png" group-title="ART ©",art aflam 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd
+ 
+#EXTINF:-1  tvg-logo="https://www.artonline.tv/images/ART_Logo/ART_AFLAM_2w.png" group-title="ART ©" ,art aflam 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd
+ 
+#EXTINF:-1  tvg-logo="https://www.artonline.tv/images/ART_Logo/cinema-logo.png" group-title="ART ©" ,art cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd
+ 
+#EXTINF:-1  tvg-logo="https://www.artonline.tv/images/ART_Logo/art_hekayat.png"  group-title="ART ©" ,art hekayat1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd
+ 
+#EXTINF:-1  tvg-logo="https://www.artonline.tv/images/ART_Logo/art_hekayat_2.png" group-title="ART ©" ,art hekayat2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd
+ 
+ 
+#EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="ART ©" ,art Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47425a7e8f7e4030d186559852ae97db:264e7cb9dfd6b9e5c281c97db4c2b4fa
+https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Movies/DASH/ART_Movies.mpd
+ 
+ 
+ 
+ 
+ 
  
  
  
