@@ -659,9 +659,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC.png" group-title="MBC-SHAHID",mbc-fm FHD
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC.png" group-title="MBC-SHAHID",panorama-fm FHD
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
 
 
@@ -851,6 +853,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://mXXX.png" group-title="MBC-SHAHID ©",alkhuzama FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e146f6abbcca4e8d916824312f496de4:dcd6c7a441ade43a7baceb777937bc91
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alkhuzama-radio/6f7a99c9c1eef9189c46d24b6cd862bf/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
  
  
@@ -2618,6 +2626,14 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mp
 
 
 
+EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="Mobily Tv ©" ,Sharjah_TV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sharjah_TV_HD/dash/drm/index.mpd
+
+
+
+ 
 
 
 
@@ -2679,10 +2695,6 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47425a7e8f7e4030d186559852ae97db:264e7cb9dfd6b9e5c281c97db4c2b4fa
 https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Movies/DASH/ART_Movies.mpd
- 
- 
- 
- 
  
  
  
