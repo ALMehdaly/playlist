@@ -296,6 +296,66 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
  
  
  
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 1
+ 
+https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/two.png" group-title="SHOOF",alkass 2
+ 
+https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/three.png" group-title="SHOOF",alkass 3 
+ 
+https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/four.png" group-title="SHOOF",alkass 4
+ 
+https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/five.png" group-title="SHOOF",alkass 5 
+ 
+https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/six.png" group-title="SHOOF",alkass 6 
+ 
+https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/seven.png" group-title="SHOOF",alkass 7
+ 
+https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/eight.png" group-title="SHOOF",alkass 8
+ 
+https://storage.googleapis.com/livealkass-eu/alkass8-p/main.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 1*
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass1
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 2*
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass2
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 3*
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass3
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 4*
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.alkass.net/assets/images/one.png" group-title="SHOOF",alkass 5*
+https://news-akko-tmk-aktoo.lol/kass/?id=alkass5
+
  
  
  
