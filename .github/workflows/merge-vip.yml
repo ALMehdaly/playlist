@@ -7,7 +7,6 @@ on:
       - main
     paths:
       - 'ARABIC'
-      - 'MySAT'
       - 'ROTANA'
       - 'SHAHID'
       - 'SHASHA'
@@ -30,11 +29,11 @@ jobs:
 
       - name: Merge playlists
         run: |
-          echo "#EXTM3U" > VIP.m3u
-          for file in ARABIC MySAT ROTANA SHAHID SHASHA STCtv StarzPlay WORLD ; do
+          echo "#EXTM3U" > vip.m3u
+          for file in ARABIC ROTANA SHAHID SHASHA STCtv StarzPlay WORLD ; do
             if [ -f "$file" ]; then
-              echo "" >> VIP.m3u
-              grep -v "^#EXTM3U" "$file" >> VIP.m3u || true
+              echo "" >> vip.m3u
+              grep -v "^#EXTM3U" "$file" >> vip.m3u || true
             fi
           done
 
@@ -42,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add VIP.m3u
+          git add vip.m3u
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit"
           else
