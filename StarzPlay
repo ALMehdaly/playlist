@@ -524,7 +524,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Khaleejiah_HD/DASH-v2/Ro
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Sony_Ent_TV
+#EXTINF:-1 group-title="StarzPlay Asian ©",Sony_Ent_TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e35e5ef1aa703050fe19581ccc91add9:09766bbf45149e13808f7be611b2338c
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_TV_New.mpd
