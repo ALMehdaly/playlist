@@ -6,8 +6,8 @@ on:
     branches:
       - main
     paths:
+      - 'VOD8'
       - 'ARABIC'
-      - 'MySAT'
       - 'ROTANA'
       - 'SHAHID'
       - 'SHOOF'
@@ -15,7 +15,9 @@ on:
       - 'STCtv'
       - 'StarzPlay'
       - 'WORLD'
+      - 'MySAT'
       - 'VOD'
+
 
 jobs:
   merge:
@@ -32,7 +34,7 @@ jobs:
       - name: Merge playlists
         run: |
           echo "#EXTM3U" > all.m3u
-          for file in ARABIC MySAT ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD VOD; do
+          for file in VOD8 ARABIC ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD MySAT VOD; do
             if [ -f "$file" ]; then
               echo "" >> all.m3u
               grep -v "^#EXTM3U" "$file" >> all.m3u || true
