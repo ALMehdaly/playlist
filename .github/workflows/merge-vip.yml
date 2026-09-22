@@ -1,1 +1,51 @@
-t
+name: Merge M3U Playlists
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'ARABIC'
+      - 'MySAT'
+      - 'ROTANA'
+      - 'SHAHID'
+      - 'SHASHA'
+      - 'STCtv'
+      - 'StarzPlay'
+      - 'WORLD'
+      
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Merge playlists
+        run: |
+          echo "#EXTM3U" > VIP.m3u
+          for file in ARABIC MySAT ROTANA SHAHID SHASHA STCtv StarzPlay WORLD ; do
+            if [ -f "$file" ]; then
+              echo "" >> VIP.m3u
+              grep -v "^#EXTM3U" "$file" >> VIP.m3u || true
+            fi
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add VIP.m3u
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-merge playlists"
+            git push
+          fi
