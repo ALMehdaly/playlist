@@ -10,6 +10,7 @@ on:
       - 'MySAT'
       - 'ROTANA'
       - 'SHAHID'
+      - 'SHOOF'
       - 'SHASHA'
       - 'STCtv'
       - 'StarzPlay'
@@ -31,7 +32,7 @@ jobs:
       - name: Merge playlists
         run: |
           echo "#EXTM3U" > all.m3u
-          for file in ARABIC MySAT ROTANA SHAHID SHASHA STCtv StarzPlay WORLD VOD; do
+          for file in ARABIC MySAT ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD VOD; do
             if [ -f "$file" ]; then
               echo "" >> all.m3u
               grep -v "^#EXTM3U" "$file" >> all.m3u || true
