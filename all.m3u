@@ -288,7 +288,17 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="ara SPORT",Kuwait Sports 2 HD
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
  
- 
+
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="ara SPORT",oman Sports  x
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8?stime=20260915154701&etime=20260922221341&token=033fefc535a41e9920ba7
+
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="ara SPORT",oman sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+
+
  
 #EXTINF:-1 tvg-logo="https://xxx.png" group-title="ara SPORT", Jordan Sport 
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
