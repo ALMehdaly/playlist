@@ -203,7 +203,10 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCF_HEVC/wv-pr/manifest.mpd
  
- 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCSB_264_Color.png" group-title="STC TV ©",STCtv SHABAB BOOMB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8e921d857311e459cc56a6a59685f71:45e45e7a01659ff7a3d595e95e05584d
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCSB_HEVC/wv-pr/manifest.mpd 
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT_264_Color.png" group-title="STC TV ©",STCtv Thmanyah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -338,10 +341,7 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSU_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a477def67bb504fb3acf9350e3074501:1ae6a15786914df32103ae155f26ac73
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSQ_HEVC/wv-pr/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCSB_264_Color.png" group-title="STC TV ©",STCtv SHABAB BOOMB
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8e921d857311e459cc56a6a59685f71:45e45e7a01659ff7a3d595e95e05584d
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCSB_HEVC/wv-pr/manifest.mpd
+
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB1_264_Color.png" group-title="STC TV ©",STCtv MBC 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -568,6 +568,14 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MSY_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aad33a029c39e70a58600b54ae5b8dee:24ea749523d73b7a087ba61c16568f4b
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AH1_HEVC/wv-pr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AHMS_264_Color.png" group-title="STC TV ©",STCtv ALHAYAH MUSLSLAT 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73d3dff2ef20bb59eb1866f66302ec40:814986dad038af716562aaf39849d390
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AHMS_HEVC/wv-pr/manifest.mpd
+
+
+https://pop1e6.cdn.intigral-ott.net/bpk-token/4ar@c2tsjwlbpkgzot1c2ljechftm5b5ums3cymzhfaa/bpk-tv/AHMS/wv-pr/manifest.mpd?bkm-query
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/NAR_264_Color.png" group-title="STC TV ©",STCtv ALNAHAR TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -682,7 +690,14 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/RTD_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfa79dd00db0005b77e18515e3adbdd7:9556d6db1074b82ade91f66f43a6c05b
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ARH_HEVC/wv-pr/manifest.mpd
- 
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSAM_264_Color.png" group-title="STC TV ©",STCtv ALMAJD QURAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389ff5820a3197459122b1ebf0c4f623:301fb1b4885093db3ef9098bd311ef13
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSAM_HEVC/wv-pr/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHQ_264_Color.png" group-title="STC TV ©",STCtv SHARJAH QURAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=801fc9a8561073db00c5660ed198e36a:ddef5317d850a6443b6b2cf45e417753
@@ -708,10 +723,10 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AAB_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6584d2f0fecbcf9c324ec9d65556bdc4:92a84ec97e2e18ebdb05e57914064534
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AAH_HEVC/wv-pr/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BBA_264_Color.png" group-title="STC TV ©",STCtv BBC AR
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BBCA_264_Color.png" group-title="STC TV ©",STCtv BBC AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93d965eaefe4e294a4a54d5e35eed854:01e4b80e569bac72e197d1cb1e121e50
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BBA_HEVC/wv-pr/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ddef53518a0cfd8111da5c87783e10af:b03acb31c3b82f1667609f497e1dbb2d
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BBCA_HEVC/wv-pr/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SNA_264_Color.png" group-title="STC TV ©",STCtv SKY NEWS ARA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -777,7 +792,15 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTV_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d743d4e39617f002e8033a6a55e841d:70d57d4ff64953eb1823f68229c41b8c
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ROTMP_HEVC/wv-pr/manifest.mpd
- 
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MAZZ_264_Color.png" group-title="STC TV ©",STCtv MAZZIK 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9116f45637041d94206c623e80abbbc4:9bf45a7830b54f67633b9480a5465ddb
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MAZZ_HEVC/wv-pr/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/OTV_264_Color.png" group-title="STC TV ©",STCtv ONE TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9b609825941a90a7f684e85f1506d03:714b1c189eb5f86577707a7d1ab733e5
