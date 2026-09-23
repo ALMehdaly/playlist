@@ -76,79 +76,85 @@ https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiO
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 11 SDR 4k H265
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 11 SDR 4k H265
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara%2Ceng%2Cund
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 13 SDR 4k H265
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 13 SDR 4k H265
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara%2Ceng%2Cund
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 14 SDR 4k H265
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 14 SDR 4k H265
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara%2Ceng%2Cund
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 15 SDR 4k H265
+https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara%2Ceng%2Cund
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 11 SDR 4k H265 ara
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 11 SDR 4k H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 12 SDR 4k H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 12 SDR 4k H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH12/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 13 SDR 4k H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 13 SDR 4k H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 14 SDR 4k H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 14 SDR 4k H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 15 SDR 4k H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 15 SDR 4k H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_framerate%3A50%3Bvideo_height%3A2160%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 11 HDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 11 HDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Ahdr10%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 12 HDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 12 HDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH12/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Ahdr10%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 13 HDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 13 HDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Ahdr10%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 14 HDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 14 HDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Ahdr10%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 15 HDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 15 HDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Ahdr10%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 11 SDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 11 SDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 12 SDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 12 SDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH12/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 13 SDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 13 SDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 14 SDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 14 SDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 15 SDR FHD H265 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 15 SDR FHD H265 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 11 SDR FHD H264 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 11 SDR FHD H264 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 12 SDR FHD H264 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 12 SDR FHD H264 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH12/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 13 SDR FHD H264 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 13 SDR FHD H264 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 14 SDR FHD H264 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 14 SDR FHD H264 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH 13/9",Thmanyah 15 SDR FHD H264 ara
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH VIX CH",Thmanyah 15 SDR FHD H264 ara
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8?aws.manifestfilter=video_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1080%3Baudio_language%3Aara
 
 
@@ -158,64 +164,64 @@ https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiO
 
 
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 01
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 01
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 02
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 02
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 03
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 03
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 04
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 04
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH04/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 05
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 05
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH05/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 06
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 06
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH06/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 07
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 07
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 08
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 08
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 09
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 09
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH09/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 10
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 10
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH10/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 11
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 11
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 12
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 12
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 13
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 13
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 14
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 14
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 15
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title=THMANYAH CH",Thmanyah 15
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH15/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 16
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 16
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 17
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 17
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH17/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 18
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 18
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 19
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title=THMANYAH CH",Thmanyah 19
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH 13/9",Thmanyah 20
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH",Thmanyah 20
 https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjQiOiIxNTUuMTIxLjIzNi40IiwiaXBfdjYiOiIiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTYuMCIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MDEwOTUyNywiZXhwIjoxNzkwMTU2Mzg3LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTAxMDk1ODd9.CASsgHeenlfXPVPTBxM4d7pQIUTteS9aaxb7gpSba8s/live/CH20/index.m3u8
