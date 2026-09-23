@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'VOD8'
+      - 'THMANYAH'
       - 'ARABIC'
       - 'ROTANA'
       - 'SHAHID'
