@@ -1,0 +1,39 @@
+name: Update M3U Token
+
+on:
+  # 1. السماح بتشغيله يدوياً من واجهة GitHub
+  workflow_dispatch:
+  
+  # 2. (اختياري) تشغيله تلقائياً عند تعديل ملف token.txt
+  push:
+    paths:
+      - 'token.txt'
+
+jobs:
+  update-token:
+    runs-on: ubuntu-latest
+    
+    # صلاحيات الكتابة للمستودع حتى يتمكن السكربت من حفظ التغييرات
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 تحميل الكود من المستودع
+        uses: actions/checkout@v4
+
+      - name: 🐍 إعداد بايثون
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: ⚙️ تشغيل سكربت التحديث
+        run: python update_playlist.py
+
+      - name: 💾 حفظ التغييرات ورفعها (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add THMANYAH
+          # التحقق مما إذا كان هناك تغييرات لتجنب الأخطاء
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 تحديث التوكن تلقائياً في قائمة THMANYAH"
+          git push
