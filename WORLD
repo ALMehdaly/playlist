@@ -143,5 +143,5 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_tv_logo.png" group-title="Iran",irib
-https://live-aburayhan1103.telewebion.net/ek/faratar/live/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_tv_logo.png" group-title="Iran",irib,4k
+https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
