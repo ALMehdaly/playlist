@@ -27,7 +27,7 @@ jobs:
           python-version: '3.10'
 
       - name: ⚙️ تشغيل سكربت التحديث
-        run: python run: update_THMANYAH.py
+        run: python update_THMANYAH.py
 
       - name: 💾 حفظ التغييرات ورفعها (Commit & Push)
         run: |
