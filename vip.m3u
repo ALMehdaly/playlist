@@ -820,10 +820,8 @@ https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d6631
  
  
  
- 
- 
-
- 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* LIVE gcc
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/index.m3u8
  
  
  
@@ -2817,9 +2815,10 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
  
+#EXTINF:-1 tvg-logo="xxxx" group-title="4k",https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
  
- 
- 
+
  
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/IRIB_TV3_LOGO.png" group-title="Iran", TV 3 Iran 
@@ -2827,3 +2826,7 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Irib_varzesh_tv_logo.png" group-title="Iran", IRIB Varzesh 
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1200px-IRIB_FARATAR_UHD.png" group-title="Iran",irib,4k
+https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
