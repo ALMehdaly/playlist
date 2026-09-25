@@ -1092,6 +1092,43 @@ https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611e
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="KW 51",Kuwait TV 1 HD
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="KW 51",Kuwait TV 2 HD
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="KW 51",Kuwait Ethraa HD
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74gzjtR.png" group-title="KW 51",Kuwait Qurain HD
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJifVOt.png" group-title="KW 51",Kuwait Al-Arabi HD
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="KW 51",Kuwait Sports HD
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="KW 51",Kuwait Sports 2 HD
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png" group-title="STC TV SPORT ©",STCtv Sports HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
