@@ -462,36 +462,44 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/6ter/DASH/6ter.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/M6_Music/DASH/M6_Music.mpd
  
  
+#EXTINF:-1 group-title="StarzPlay ©",MBC_Action FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
+
+
+
+#EXTINF:-1 group-title="StarzPlay ©",MBC_1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
  
  
- 
- 
-#EXTINF:-1 group-title="StarzPlay ©",MBC 2
+#EXTINF:-1 group-title="StarzPlay ©",MBC 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",MBC max
+#EXTINF:-1 group-title="StarzPlay ©",MBC max FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",MBC_Plus_Variety
+#EXTINF:-1 group-title="StarzPlay ©",MBC_Plus_Variety FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",MBC_Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
-https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
+
  
  
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP1_264_Color.png" group-title="StarzPlay ©",StarzPlay © sports 1*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
