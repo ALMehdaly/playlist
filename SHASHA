@@ -9,9 +9,7 @@ https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d6631
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d66311f0bc9439d52f00ee49/index.m3u8|Referer=https://shasha.com/
 
 
-#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",mjd sp 1
 
-https://smarter.majedlive.site/live/ch1/d82aad372e9c419291e4ecf4ed6c3a2b.1790272487.1790283287.0.6b7a6e8538dd778db40f13b6e3936d2b8c59b399cbc2adba48282d4210f96a72/master.css|Referer=https://player.majed-koora.live
  
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* LIVE gcc
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/index.m3u8
