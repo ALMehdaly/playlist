@@ -2404,7 +2404,72 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd
  
  
+ #EXTINF:-1 tvg-logo="https://www.wanasa.tv/images/logo.png" group-title="StarzPlay ©",MBC MOOD FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcab1dc6dbb77bf7d92193502ea46b96:539b545374c01633011765473fcb4ea9
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_MOOD/DASH/MBC_MOOD.mpd
  
+ 
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-drama-logo.png" group-title="StarzPlay ©",MBC Drama FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd19fd7125d0ac84bdfb232b3752c186:3c5a6993c421ca50f5a49c46ae912e7f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama_HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png" group-title="StarzPlay ©",MBC Plus Drama FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de
+
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_plus_Drama_HD/DASH/MBC_plus_Drama_HD.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-iraq-logo.png" group-title="StarzPlay ©",MBC Iraq FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3c6800ed41519b36a56d478c0ab4f3:6754ecbf2dab912e8cf09c9b1488bc4d
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Iraq_HD/DASH/MBC_Iraq_HD.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-bollywood-logo.png" group-title="StarzPlay ©",MBC Bollywood FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbba37d66620bd8b2d51572d9e201e8:7cf19a5f88f2762fc4a307e1389d8419
+
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Bollywood_HD/DASH/MBC_Bollywood_HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc3-logo.png" group-title="StarzPlay ©",MBC 3 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=789fdc6e5d26d121c4af76f659978a70:6ab0242bdaf4a7b0af4a54c9633a8e85
+
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_3HD/DASH/MBC_3HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png" group-title="StarzPlay ©",MBC 4 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29f3054bb2d3eaf8dd3f2e7ed82f344d:28069cb3e76ac3e45d007bcc99d6e50a
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_4HD/DASH/MBC_4HD.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr-logo.png" group-title="StarzPlay ©",MBC Masr FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e4a21fa466f6a6dadbe00bc882f1429:4716d679cf065556354df8134c4e8c99
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Maser/DASH/MBC_Maser.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr2-logo.png" group-title="StarzPlay ©",MBC Masr 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ef41252601d15b560384657fa94e854:168e8db00dc987474b11fe806f523415
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Maser_2/DASH/MBC_Maser_2.mpd
+
+
+
 
  
  
