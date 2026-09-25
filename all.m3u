@@ -2470,8 +2470,10 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Maser_2/DASH/MBC_Maser_2.mp
 
 
 
-
- 
+#EXTINF:-1 tvg-logo="https://www.dubaitv.ae/images/logo.png" group-title="StarzPlay ©",Dubai TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
  
 
 
@@ -2495,6 +2497,11 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Khaleejiah_HD/DASH-v2/Ro
  
  
  
+
+
+
+
+
  
  
  
