@@ -2539,8 +2539,13 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Marathi/dash/drm/index.mpd
  
  
- 
- 
+
+
+
+ #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD#
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/MBC_1_HD/dash/drm/index.mpd
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD#
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2555,7 +2560,10 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Acti
  
  
  
- 
+ #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png" group-title="Mobily Tv ©",MBC 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2HD/dash/drm/index.mpd
  
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD
@@ -2569,7 +2577,7 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd
 
 
  
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD*
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1HD/dash/drm/index.mpd
