@@ -567,6 +567,33 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mp
  
 
 
+
+#EXTINF:-1 tvg-logo="https://www.almashhad.tv/images/logo.png" group-title="StarzPlay ©",Al Mashhad TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09c866dc7d2d423cc92c02c1b86ce0b4:04551ce3bae2228685d6c3baf3ac2071
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashhad_TV.mpd
+
+
+#EXTINF:-1  tvg-logo="xxxxx" group-title="StarzPlay ©" ,Sharjah_TV_FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Sharjah_TV_HD/DASH/Sharjah_TV_HD.mpd
+
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="StarzPlay ©",FOX_News_FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0a6079fb90dc835835791c105820d06:2901128b88ce7751fb31b055375a535b
+https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2021/06/FTV-Logo-2017.png" group-title="StarzPlay ©",Fashion TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2eaacdf5e24c0eff853ca65fef6450ed:a26c165054ad412c5fb11c92c16d1a74
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Fashion_TV_HD/DASH/Fashion_TV_HD.mpd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP1_264_Color.png" group-title="StarzPlay ©",StarzPlay © sports 1*
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
@@ -777,6 +804,24 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_
 #KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
  
+
+
+#EXTINF:-1 tvg-logo="https://www.almashhad.tv/images/logo.png" group-title="Mobily Tv ©",Al Mashhad TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09c866dc7d2d423cc92c02c1b86ce0b4:04551ce3bae2228685d6c3baf3ac2071
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashhad_TV.mpd
+
+
+#EXTINF:-1  tvg-logo="xxxxx" group-title="Mobily Tv ©" ,Sharjah_TV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sharjah_TV_HD/dash/drm/index.mpd
+
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="Mobily Tv ©",FOX_News_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0a6079fb90dc835835791c105820d06:2901128b88ce7751fb31b055375a535b
+https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mpd
  
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2021/06/FTV-Logo-2017.png" group-title="Mobily Tv ©",Fashion TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -803,11 +848,7 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Boomerang_HD/DASH/Boomerang
 #KODIPROP:inputstream.adaptive.license_key=5ce4f571bc4e4811a092f339be8cec01:d31f3d3bf040a2f504b88d77afb37973
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Jadeed/DASH/Al_Jadeed.mpd
  
-#EXTINF:-1 tvg-logo="https://www.almashhad.tv/images/logo.png" group-title="Mobily Tv ©",Al Mashhad TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09c866dc7d2d423cc92c02c1b86ce0b4:04551ce3bae2228685d6c3baf3ac2071
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashhad_TV.mpd
- 
+
  
  
 #EXTINF:-1 tvg-logo="https://www.wanasa.tv/images/logo.png" group-title="Mobily Tv ©",MBC MOOD
@@ -912,10 +953,11 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Dr
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd
  
  
-#EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="Mobily Tv ©" ,Sharjah_TV_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sharjah_TV_HD/dash/drm/index.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.rotana.net/images/logo.png" group-title="Mobily Tv ©",Masala_TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1020,10 +1062,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/RedBull2025/DASH/RedBull2025.mp
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/NatGeo_AbuDhabi_HD/DASH/NatGeo_AbuDhabi_HD.mpd
  
  
-#EXTINF:-1 tvg-logo="https://www.rotana.net/images/logo.png" group-title="Mobily Tv ©",FOX_News_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0a6079fb90dc835835791c105820d06:2901128b88ce7751fb31b055375a535b
-https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mpd
+
 
 
 
