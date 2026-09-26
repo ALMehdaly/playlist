@@ -739,18 +739,12 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Marathi/dash/drm/index.mpd
 
 
 
- #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD#
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/MBC_1_HD/dash/drm/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD#
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/MBC_1_HD/dash/drm/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="Mobily Tv ©",MBC Action HD#
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="Mobily Tv ©",MBC Action FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
@@ -760,13 +754,13 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Acti
  #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png" group-title="Mobily Tv ©",MBC 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
  
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd 
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
  
  
 
@@ -782,11 +776,6 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1HD/dash/drm/index.mpd
 
 
 
- 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="Mobily Tv ©",MBC Action HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
  
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-iraq-logo.png" group-title="Mobily Tv ©",MBC Iraq HD
