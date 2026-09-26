@@ -505,11 +505,11 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_MOOD/DASH/MBC_MOOD.mpd
 #KODIPROP:inputstream.adaptive.license_key=bd19fd7125d0ac84bdfb232b3752c186:3c5a6993c421ca50f5a49c46ae912e7f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama_HD.mpd
  
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png" group-title="StarzPlay ©",MBC Plus Drama FHD
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png" group-title="StarzPlay ©",MBC Plus Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_plus_Drama_HD/dash/drm/index.mpd
 
-https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_plus_Drama_HD/DASH/MBC_plus_Drama_HD.mpd
 
 
 
@@ -757,7 +757,7 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Acti
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
  
  
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 HD
+#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
@@ -765,14 +765,6 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
  
 
 
-
-
- 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1HD/dash/drm/index.mpd
- 
 
 
 
