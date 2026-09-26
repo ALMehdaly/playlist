@@ -3116,14 +3116,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc
 #EXTINF:-1  tvg-logo="png" group-title="ADMN ©" ,AD national_geo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd|Referer=https://starzplay.com
 
-
-
-#EXTINF:-1  tvg-logo="png" group-title="ADMN ©" ,AD national_geo+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
-https://admn-jit-cdn-lb.starzplayarabia.com/out/v1/fa9c4fd3c6a245cab65a6ae930d33bb9/318c7499e4a947fbae0d5413730b9ead/34d20f6c04c34dff8627832ac87f778a/index.mpd
 
 #EXTINF:-1 group-title="ADMN ©",abudhabi_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3142,12 +3136,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
- 
- 
-#EXTINF:-1 group-title="StarzPlay ©",abudhabi_national_geo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
  
 #EXTINF:-1 group-title="ADMN ©",majid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
