@@ -306,29 +306,30 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/W9/DASH/W9.mpd
  
 #EXTINF:-1 group-title="StarzPlay ©",abudhabi_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207
+#KODIPROP:inputstream.adaptive.license_key=c4055f4b8e3d241ec523c3b925a98ae2:1c2ecca0522a49121b69ad85548fb27a
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Abu_Dhabi_TV_HD/DASH/Abu_Dhabi_TV_HD.mpd
  
  
  
 #EXTINF:-1 group-title="StarzPlay ©",emarat_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb79f982984ece91932030a4bb7faaa:e2e50fafa92382e735bc0e8aa1f67b20
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=61006b5b164d5386b7b02db0a4d374fc:fa3201ca9b3eba026b20acbf10d14102
+hhttps://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Emarat_TV_HD/DASH/Al_Emarat_TV_HD.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",baynounah
+#EXTINF:-1 group-title="StarzPlay ©",baynounah soon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",abudhabi_national_geo
+#EXTINF:-1 group-title="StarzPlay ©",abudhabi_national_geo soon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
  
-#EXTINF:-1 group-title="StarzPlay ©",majid
+#EXTINF:-1 group-title="StarzPlay ©",majid soon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/majid/majid_dash_enc/index.mpd
