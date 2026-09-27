@@ -314,7 +314,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Abu_Dhabi_TV_HD/DASH/Abu_Dhabi_
 #EXTINF:-1 group-title="StarzPlay ©",emarat_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61006b5b164d5386b7b02db0a4d374fc:fa3201ca9b3eba026b20acbf10d14102
-hhttps://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Emarat_TV_HD/DASH/Al_Emarat_TV_HD.mpd
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Emarat_TV_HD/DASH/Al_Emarat_TV_HD.mpd
  
  
 #EXTINF:-1 group-title="StarzPlay ©",baynounah soon
@@ -323,10 +323,13 @@ hhttps://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Emarat_TV_HD/DASH/Al_Emarat
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",abudhabi_national_geo soon
+#EXTINF:-1 group-title="StarzPlay ©",NatGeo_AbuDhabi_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=99e6654c4904aa34faccf6f7dc75c7ff:7cc60d98af11e3a180c3048019c62b75
+https://admn-live-cdn-lb.starzplayarabia.com/live/eds/NatGeo_AbuDhabi_HD/DASH/NatGeo_AbuDhabi_HD.mpd
+
+
+
  
 #EXTINF:-1 group-title="StarzPlay ©",majid soon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
