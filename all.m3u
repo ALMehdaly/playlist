@@ -1978,25 +1978,25 @@ https://ev-hw-fast-mpd.starzplayarabia.com/DAZN_1/dash/drm/index.mpd
  
  
 
-#EXTINF:-1 group-title="StarzPlay ©",cricbuzz 1
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png" group-title="StarzPlay ©",cricbuzz 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
 https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",cricbuzz 2
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife3-active.png" group-title="StarzPlay ©",cricbuzz 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037798d4da2472201e564323244afc49:c8888c4644cef0a5f130afa32d919fc4
 https://cbuzz2.starzplayarabia.com/out/v1/c6320ac38c774e66b60dbf4d0e7d16ab/index.mpd
  
-#EXTINF:-1 group-title="StarzPlay ©",StarzPlay © Golf
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/golflife-active.png" group-title="StarzPlay ©",StarzPlay © Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba8bc6cb4ea60a7d9bcd53faa56f2a9c:c09034d43abd57b8c6c5707770bd1ce5
 https://live-hw-stream.starzplayarabia.com/GolfLife/dash/drm/index.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",StarzPlay ©-cricket
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.png" group-title="StarzPlay ©",StarzPlay cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b660aa26290d401fd3596d41079619ff:f60928c13011b9e6b2f651232e1e7f9e
 https://criclive1.starzplayarabia.com/out/v1/sp_tv_enc/criclife1/criclife1_dash_enc/index.mpd
@@ -2005,20 +2005,20 @@ https://criclive1.starzplayarabia.com/out/v1/sp_tv_enc/criclife1/criclife1_dash_
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",FIFA+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/fifaplus-active.png" group-title="StarzPlay ©",FIFA+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fc4d9cef573b7143d5c45a707e80933:962df2fcb360027a700bd3cde16aa565
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/FIFAplus/dash/drm/index.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",RedBull TV
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/Redbull-Colored.png" group-title="StarzPlay ©",RedBull TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90da05e528d71426a11a2318a96018ce:abfab9b4d18d8be44c7ffc619f50e27f
 https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Redbull-Live-DASH/live/eds/RedBull2025/DASH/RedBull2025.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Wedo_Sports_MENA
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/wedosports/active/b63627573a8c35c2c9faba87d4f19682.png" group-title="StarzPlay ©",Wedo_Sports_MENA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=592dac4308ecfec757b995f03c204018:c6cd0d1765eb8af0aa180aa0d3afc999
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
@@ -2105,13 +2105,13 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CNN_International_HD/DASH/CNN_I
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Spacetoon
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/spacetoon/active/49f3866d8762fa3a0ee59cf27d218550.png" group-title="StarzPlay ©",Spacetoon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d9d2ff7e16589866e6de748a7a34dcd:91c93471f897aca8db5411a3aebef4db
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Cartoon_Network_Arabic
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png" group-title="StarzPlay ©",Cartoon_Network_Arabic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
@@ -2722,7 +2722,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/FOX_News_HD/DASH/FOX_News_HD.mp
 #KODIPROP:inputstream.adaptive.license_key=2eaacdf5e24c0eff853ca65fef6450ed:a26c165054ad412c5fb11c92c16d1a74
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Fashion_TV_HD/DASH/Fashion_TV_HD.mpd
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_2010_logo.svg" group-title="Mobily Tv ©",Cartoon Network Arabic
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png" group-title="Mobily Tv ©",Cartoon Network Arabic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Cartoon_Network_Arabic/dash/drm/index.mpd
@@ -3070,19 +3070,19 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #KODIPROP:inputstream.adaptive.license_key=b80daca12f9a0b85738ff8955fb36f75:09f851dd374114453aa036a54d71cf7b
 https://adasia2.starzplayarabia.com/out/v1/14ca2aedefc84e60999fca6e700b438d/index.mpd
  
-#EXTINF:-1 group-title="ADMN ©",abudhabi_sports_fight
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adfight/active/148e429d490678b682f11eb5046f99ca.png" group-title="ADMN ©",abudhabi_sports_fight
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a964c9330ee151a225adc46619f3afb0:f1bc2513d4b5019bdf5b0ddc03af954c
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
  
  
  
-#EXTINF:-1 group-title="ADMN ©",YAS
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png" group-title="ADMN ©",YAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b417ef441805842ea16892ff3841d197:b88423638d8d13c030f8a7868a045838
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
 
-#EXTINF:-1 group-title="ADMN ©",YAS EXTRA
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia1-active.png" group-title="ADMN ©",YAS EXTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88a4bd31ed8999cc56a843690635970:d481dd51e34364884356b61ee9a28d1c
 https://adasia1.starzplayarabia.com/out/v1/3c0cb95505b14665996b96a9abf5f18c/index.mpd
