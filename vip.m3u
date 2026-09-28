@@ -2825,7 +2825,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Movies/DASH/ART_Movies.mpd
 
 
 
-#EXTINF:-1  tvg-logo="png" group-title="ADMN ©" ,abudhabi_sports_1
+#EXTINF:-1  tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/inactive/781f565c5d8e2e8591f7715a33eb0139.png" group-title="ADMN ©" ,abudhabi_sports_1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
@@ -2874,7 +2874,7 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/nationa
 
 
 
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/active/5053dc59a6720698c26127b27e5e2098.png" group-title="ADMN ©", abudhabi_tv
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/inactive/781f565c5d8e2e8591f7715a33eb0139.png" group-title="ADMN ©", abudhabi_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
@@ -2891,7 +2891,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_
  
 
 
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png" group-title="ADMN ©",baynounah
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/baynouahtv/active/8b723ad288abb23eeaf34ef4ab7e4f15.png" group-title="ADMN ©",baynounah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
