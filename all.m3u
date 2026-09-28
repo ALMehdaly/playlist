@@ -2096,7 +2096,7 @@ https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec6
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CNN_International_HD/DASH/CNN_International_HD.mpd
  
  
-#EXTINF:-1 group-title="StarzPlay ©",CNBC_Arabiya_HD
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png" group-title="StarzPlay ©",CNBC_Arabiya_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4080954e835e8d3d1b6af8151b1c6314:8a6d2f9de5a561f4e1be424aae428c25
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/CNBC_Arabiya_HD/DASH/CNBC_Arabiya_HD.mpd
@@ -2353,7 +2353,7 @@ https://ev-hw-fast-mpd.starzplayarabia.com/CNN/dash/drm/index.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Alarabiya Business
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alarabiyabusiness-active.png" group-title="StarzPlay ©",Alarabiya Business
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c88afdaa09700b82b9f5e5621b3ee75:5049d4e53fe4d080b66d99996127c776
 https://live-hw-stream.starzplayarabia.com/AlarabiyaBusiness/dash/drm/index.mpd
@@ -3092,30 +3092,40 @@ https://adasia1.starzplayarabia.com/out/v1/3c0cb95505b14665996b96a9abf5f18c/inde
 
 
 
-#EXTINF:-1  tvg-logo="png" group-title="ADMN ©" ,AD national_geo
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nationalgeographicabudhabitv/active/28116b613c9c8ccbb1a27a47cc862b6c.png" group-title="ADMN ©", AD national_geo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd|Referer=https://starzplay.com
 
 
-#EXTINF:-1 group-title="ADMN ©",abudhabi_tv
+
+
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/active/5053dc59a6720698c26127b27e5e2098.png" group-title="ADMN ©", abudhabi_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
  
+
+
  
  
-#EXTINF:-1 group-title="ADMN ©",emarat_tv
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png" group-title="ADMN ©", emarat_tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb79f982984ece91932030a4bb7faaa:e2e50fafa92382e735bc0e8aa1f67b20
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/emarat_tv/emarat_tv_dash_enc/index.mpd
  
  
-#EXTINF:-1 group-title="ADMN ©",baynounah
+
+
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png" group-title="ADMN ©",baynounah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d997b48c7de67d1c8391ddd5d7d9aa4:cd1f319bc0f9a51e41960f4d0d5966a3
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
  
+
+
+
 #EXTINF:-1 group-title="ADMN ©",majid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544
