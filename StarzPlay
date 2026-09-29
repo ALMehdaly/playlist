@@ -5,7 +5,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/inactive/e2d458bf4b593324056ed5dbb4510115.png" group-title="StarzPlay ©",starzplay sports 1
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS1.png" group-title="StarzPlay ©",starzplay sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
@@ -16,7 +16,7 @@ https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.m
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
  
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SPZ_264_Color.png" group-title="StarzPlay ©",StarzPlay © sports 3
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS3.png" group-title="StarzPlay ©",StarzPlay © sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
@@ -1106,12 +1106,12 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Movies/DASH/ART_Movies.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png" group-title="ADMN ©" ,abudhabi_sports_1
+#EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ADSPORTS1.png" group-title="ADMN ©" ,abudhabi_sports_1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
 
-#EXTINF:-1 group-title="ADMN ©",abudhabi_sports_2
+#EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ADSPORTS2.png" group-title="ADMN ©" , abudhabi_sports_2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
