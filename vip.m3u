@@ -1730,7 +1730,7 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSASH_HEVC/wv-pr/manifest.mpd
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
  
  
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP2_264_Color.png" group-title="StarzPlay ©",StarzPlay © sports 2
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS2.png" group-title="StarzPlay ©",StarzPlay © sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
