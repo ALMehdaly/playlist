@@ -382,21 +382,21 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Drama/DASH-v2/Rotana_Dra
  
  
  
- 
- 
-#EXTINF:-1 group-title="StarzPlay ©",looney-tunes-by-cn
+#EXTINF:-1 tvg-logo=" https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODTOMJERRYBYWBTVY2025M/AVODTOMJERRYBYWBTVY2025M-title-logo-en.png" group-title="StarzPlay ©",looney-tunes-by-cn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71c93a752be53b9e590972d363c15544:11af5dc5fc75f9cbcb14fd99541fbde5
 https://ev-hw-fast-mpd.starzplayarabia.com/looney-tunes-by-cn/dash/drm/index.mpd
  
  
  
-#EXTINF:-1 group-title="StarzPlay ©",Sky_New_HD
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/SKYNEWSY2026M/SKYNEWSY2026M-title-logo-en.png" group-title="StarzPlay ©",Sky_New_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa89a9c8a3baee25777a009adfffcfb5:d83b597b588039d4328ff13da9224817
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sky_New_HD/dash/drm/index.mpd
  
-#EXTINF:-1 group-title="StarzPlay ©",CNN
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODCNNINTERNATIONALY2026M/AVODCNNINTERNATIONALY2026M-title-logo-en.png" group-title="StarzPlay ©",CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da683786846abc63eeeab88f7d30ec48:00d223bb68ed721d65c67b36b991b218
 https://ev-hw-fast-mpd.starzplayarabia.com/CNN/dash/drm/index.mpd
@@ -1115,8 +1115,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/ab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
- 
-#EXTINF:-1 group-title="ADMN ©",abudhabi_sports EXTRA
+
+#EXTINF:-1  tvg-logo="https://mena-img-cdn-lb.aws.playco.com/adsports/ASIA2LIVEY2021M/ASIA2LIVEY2021M-title-logo-en.png" group-title="ADMN ©" ,abudhabi_sports EXTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b80daca12f9a0b85738ff8955fb36f75:09f851dd374114453aa036a54d71cf7b
 https://adasia2.starzplayarabia.com/out/v1/14ca2aedefc84e60999fca6e700b438d/index.mpd
