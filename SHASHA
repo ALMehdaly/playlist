@@ -1,6 +1,81 @@
  #EXTM3U
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 1 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d66311f094baa96c56867df9/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 2 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d66311f0bc9439d52f00ee49/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 3 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_ce323a70d66311f0891ac1acf28a6858/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 2* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_7225dcc0d67f11f0bdcd396dadad2a69/tracks-v2a1/mono.ts.m3u8
+
+
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 3* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_f9263810514911f186a0752ee758b37c/tracks-v2a1/mono.ts.m3u8
+
+
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 4* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_6a114500d68011f0bc9439d52f00ee49/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 5* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1d3b9f50d68011f0891ac1acf28a6858/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 6* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 7* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v2a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 1 LIVE
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d66311f094baa96c56867df9/index.m3u8|Referer=https://shasha.com/
  
@@ -16,12 +91,6 @@ https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_ce323a70d6631
 
 
 
-
-
- 
-
- 
- 
  
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* LIVE
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/index.m3u8
