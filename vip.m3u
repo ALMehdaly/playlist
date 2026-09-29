@@ -2880,6 +2880,11 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/nationa
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
  
 
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-title-logo-en.png" group-title="ADMN ©", abudhabi_tv 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd
+
 
  
  
