@@ -1795,10 +1795,10 @@ https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=592dac4308ecfec757b995f03c204018:c6cd0d1765eb8af0aa180aa0d3afc999
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
- 
 
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODAWSNY2024M/AVODAWSNY2024M-title-logo-en.png
-" group-title="StarzPlay ©",AWSN
+
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODAWSNY2024M/AVODAWSNY2024M-title-logo-en.png" group-title="StarzPlay ©",AWSN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7171dc011a439d5d3ba497c60bb936:02530ebb78f5ca3939b16a143bd27819
 https://ev-hw-fast-mpd.starzplayarabia.com/AWSN/dash/drm/index.mpd
