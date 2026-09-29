@@ -1730,20 +1730,19 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSASH_HEVC/wv-pr/manifest.mpd
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
  
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS2.png" group-title="StarzPlay ©",StarzPlay © sports 2
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS2.png" group-title="StarzPlay ©",StarzPlay sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS3.png" group-title="StarzPlay ©",StarzPlay © sports 3
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS3.png" group-title="StarzPlay ©",StarzPlay sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
  
  
- 
- 
-#EXTINF:-1 group-title="StarzPlay ©",DAZN RINGSIDE
+#EXTINF:-1 tvg-logo=" https://mena-img-cdn-lb.aws.playco.com/ev-sofast-ireland-avod/AVODDAZNCOMBATFIGHTINGY2023M/AVODDAZNCOMBATFIGHTINGY2023M-title-logo-en.png
+" group-title="StarzPlay ©",DAZN RINGSIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=502ae9931ed21f09e3f992724aafbcbb:240c73b5e0b1967ae73be351bad6675a
 https://ev-hw-fast-mpd.starzplayarabia.com/DAZN_1/dash/drm/index.mpd
@@ -1797,8 +1796,9 @@ https://0a889ec3eff14f7c8f04263b594a613b.mediatailor.me-central-1.amazonaws.com/
 #KODIPROP:inputstream.adaptive.license_key=592dac4308ecfec757b995f03c204018:c6cd0d1765eb8af0aa180aa0d3afc999
 https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Wedo_Sports_MENA/DASH/Wedo_Sports_MENA.mpd
  
- 
-#EXTINF:-1 group-title="StarzPlay ©",AWSN
+
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODAWSNY2024M/AVODAWSNY2024M-title-logo-en.png
+" group-title="StarzPlay ©",AWSN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7171dc011a439d5d3ba497c60bb936:02530ebb78f5ca3939b16a143bd27819
 https://ev-hw-fast-mpd.starzplayarabia.com/AWSN/dash/drm/index.mpd
@@ -2846,8 +2846,8 @@ https://adasia2.starzplayarabia.com/out/v1/14ca2aedefc84e60999fca6e700b438d/inde
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
  
  
- 
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png" group-title="ADMN ©",YAS
+
+#EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/YAS.png" group-title="ADMN ©" ,YAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b417ef441805842ea16892ff3841d197:b88423638d8d13c030f8a7868a045838
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
@@ -2900,9 +2900,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
 
-
-
-#EXTINF:-1 group-title="ADMN ©",majid
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
+" group-title="ADMN ©", majid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01ad62cecdb4194d08b227682d7b1935:d534d7f207baae2e51a279107049f544
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/majid/majid_dash_enc/index.mpd
