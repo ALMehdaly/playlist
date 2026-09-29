@@ -811,11 +811,11 @@ https://news-akko-tmk-aktoo.lol/kass/?id=alkass5
  #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="SHASHA",SHASHA 1 LIVE
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 1 LIVE
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d66311f094baa96c56867df9/index.m3u8|Referer=https://shasha.com/
  
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="SHASHA",SHASHA 2 LIVE
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 2 LIVE
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d66311f0bc9439d52f00ee49/index.m3u8|Referer=https://shasha.com/
 
 
