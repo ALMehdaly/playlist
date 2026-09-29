@@ -1121,19 +1121,19 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #KODIPROP:inputstream.adaptive.license_key=b80daca12f9a0b85738ff8955fb36f75:09f851dd374114453aa036a54d71cf7b
 https://adasia2.starzplayarabia.com/out/v1/14ca2aedefc84e60999fca6e700b438d/index.mpd
  
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adfight/inactive/43986d3a4945912ce918becff176be28.png" group-title="ADMN ©",abudhabi_sports_fight
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADFIGHTY2026MAR/ADMNADFIGHTY2026MAR-title-logo-en.png" group-title="ADMN ©",abudhabi_sports_fight
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a964c9330ee151a225adc46619f3afb0:f1bc2513d4b5019bdf5b0ddc03af954c
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/ad_fight/ad_fight_dash_enc/index.mpd
  
  
 
-#EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/YAS.png" group-title="ADMN ©" ,YAS
+#EXTINF:-1  tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNYASY2025MAR/ADMNYASY2025MAR-title-logo-en.png" group-title="ADMN ©" ,YAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b417ef441805842ea16892ff3841d197:b88423638d8d13c030f8a7868a045838
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/yas_1/yas_1_dash_enc/index.mpd
 
-#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia1-active.png" group-title="ADMN ©",YAS EXTRA
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/adsports/ASIA1LIVEY2021M/ASIA1LIVEY2021M-title-logo-en.png" group-title="ADMN ©",YAS EXTRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f88a4bd31ed8999cc56a843690635970:d481dd51e34364884356b61ee9a28d1c
 https://adasia1.starzplayarabia.com/out/v1/3c0cb95505b14665996b96a9abf5f18c/index.mpd
