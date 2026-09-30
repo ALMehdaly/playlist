@@ -746,12 +746,43 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-women-sports/c07bfc8d23bc0c71ba8fda9299225f51/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sp.png" group-title="MBC-SHAHID",sport  FHD
+https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mm.png" group-title="MBC-SHAHID",Aflam FHD
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ma.png" group-title="MBC-SHAHID",movies action FHD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mt.png" group-title="MBC-SHAHID",movies thrilles FHD
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tarb.png" group-title="MBC-SHAHID",Tarb FHD
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tarb.png" group-title="MBC-SHAHID",ferose FHD
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/TASH.png" group-title="MBC-SHAHID",TASH  FHD
 https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/nq.png" group-title="MBC-SHAHID",Nasser qasbi  FHD
+https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MARAYA.png" group-title="MBC-SHAHID",MARAYA  FHD
@@ -764,6 +795,18 @@ https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8?aws.manifestfilter=vide
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/BH.png" group-title="MBC-SHAHID",BAB ALHARAA  FHD
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mm.png" group-title="MBC-SHAHID",masrh masr  FHD
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ka.png" group-title="MBC-SHAHID",alkabeer awii  FHD
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/aaa.png" group-title="MBC-SHAHID",al labah   FHD
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
 
 
  
