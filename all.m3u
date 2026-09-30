@@ -628,13 +628,13 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/alarabiyaprograms.png" group-title="MBC-SHAHID",alarabiya-programs FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png" group-title="MBC-SHAHID",alarabiya-business FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
@@ -643,14 +643,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png" group-title="MBC-SHAHID", ALhadath FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
@@ -658,10 +658,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/bigtimeplus.png" group-title="MBC-SHAHID",big-time-plus FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCIraq.png"group-title="MBC-SHAHID",MBC Iraq FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
