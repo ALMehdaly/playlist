@@ -742,10 +742,30 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
  
  
  
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AWSN.png" group-title="MBC-SHAHID",AWSN  FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-women-sports/c07bfc8d23bc0c71ba8fda9299225f51/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
- 
- 
- 
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/TASH.png" group-title="MBC-SHAHID",TASH  FHD
+https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MARAYA.png" group-title="MBC-SHAHID",MARAYA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/BD.png" group-title="MBC-SHAHID",BOQAT DOAA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/BH.png" group-title="MBC-SHAHID",BAB ALHARAA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 usa FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
@@ -832,8 +852,9 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-panorama-fm/ea22f3856a1b772f793c
 
 
 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC-SHAHID ©", mbc shahid-sports-1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
