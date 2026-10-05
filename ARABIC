@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel 
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
@@ -12,37 +12,35 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD  
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?video_height=1080&video_codec=H264
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
+
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD*
-https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath HD 
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath FHD 
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Sky News Arabia FHD
-https://stream.skynewsarabia.com/ott/ott.m3u8?video_height=1080&video_codec=H264
+https://stream.skynewsarabia.com/ott/ott.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera FHD
-https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?video_height=1080&video_codec=H264
+https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera FHD*
-https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8
+
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png"group-title="NEWS",BBC Arabic HD
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
