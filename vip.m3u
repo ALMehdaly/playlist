@@ -1,49 +1,50 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlEkhbaria.png"group-title="NEWS",Al Ekhbaria
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel 
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel *
+https://live-news.asharq.com/asharq.m3u8
  
  
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel FHD**
+https://live-news.asharq.com/asharq.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD  
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?video_height=1080&video_codec=H264
+
  
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD*
-https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath HD 
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath FHD 
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Sky News Arabia FHD
-https://stream.skynewsarabia.com/ott/ott.m3u8?video_height=1080&video_codec=H264
+https://stream.skynewsarabia.com/ott/ott.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera FHD
-https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?video_height=1080&video_codec=H264
+https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera FHD*
-https://live-hls-web-aja-gcp.thehlive.com/AJA/01.m3u8
+
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/01.m3u8
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png"group-title="NEWS",BBC Arabic HD
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
@@ -401,13 +402,13 @@ https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/alarabiyaprograms.png" group-title="MBC-SHAHID",alarabiya-programs FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya-programs/85e4559c12d8033729d9d677730591e5/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ALArabiyaBusiness.png" group-title="MBC-SHAHID",alarabiya-business FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
@@ -416,14 +417,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya-business/6736e2ee3a
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png" group-title="MBC-SHAHID", ALhadath FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
@@ -431,10 +432,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
  
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/bigtimeplus.png" group-title="MBC-SHAHID",big-time-plus FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBCIraq.png"group-title="MBC-SHAHID",MBC Iraq FHD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
@@ -515,10 +516,73 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d
  
  
  
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AWSN.png" group-title="MBC-SHAHID",AWSN  FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-women-sports/c07bfc8d23bc0c71ba8fda9299225f51/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
- 
- 
- 
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/sp.png" group-title="MBC-SHAHID",sport  FHD
+https://shd-amg-fast.edgenextcdn.net/tx018/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mm.png" group-title="MBC-SHAHID",Aflam FHD
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ma.png" group-title="MBC-SHAHID",movies action FHD
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mt.png" group-title="MBC-SHAHID",movies thrilles FHD
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tarb.png" group-title="MBC-SHAHID",Tarb FHD
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/tarb.png" group-title="MBC-SHAHID",ferose FHD
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/TASH.png" group-title="MBC-SHAHID",TASH  FHD
+https://shd-amg-fast.edgenextcdn.net/tx015/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/nq.png" group-title="MBC-SHAHID",Nasser qasbi  FHD
+https://shd-amg-fast.edgenextcdn.net/tx017/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MARAYA.png" group-title="MBC-SHAHID",MARAYA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/BD.png" group-title="MBC-SHAHID",BOQAT DOAA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx025/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/BH.png" group-title="MBC-SHAHID",BAB ALHARAA  FHD
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mm.png" group-title="MBC-SHAHID",masrh masr  FHD
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ka.png" group-title="MBC-SHAHID",alkabeer awii  FHD
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/aaa.png" group-title="MBC-SHAHID",al labah   FHD
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
+
+
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/MBC1.png" group-title="MBC-SHAHID",mbc 1 usa FHD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
@@ -605,8 +669,9 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-panorama-fm/ea22f3856a1b772f793c
 
 
 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC-SHAHID ©", mbc shahid-sports-1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -811,6 +876,81 @@ https://news-akko-tmk-aktoo.lol/kass/?id=alkass5
  #EXTM3U
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 1 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d66311f094baa96c56867df9/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+ 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 2 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d66311f0bc9439d52f00ee49/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 3 FHD LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_ce323a70d66311f0891ac1acf28a6858/tracks-v2a1/mono.ts.m3u8|Referer=https://shasha.com/
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 2* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_7225dcc0d67f11f0bdcd396dadad2a69/tracks-v2a1/mono.ts.m3u8
+
+
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 3* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_f9263810514911f186a0752ee758b37c/tracks-v2a1/mono.ts.m3u8
+
+
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 4* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_6a114500d68011f0bc9439d52f00ee49/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 5* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1d3b9f50d68011f0891ac1acf28a6858/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 6* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_1dc7d580558d11efa2eeebd0ba5ae7e5/tracks-v2a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 7* FHD LIVE
+https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611eeb02035c643a92b1e/tracks-v2a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 1 LIVE
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d66311f094baa96c56867df9/index.m3u8|Referer=https://shasha.com/
  
@@ -819,11 +959,13 @@ https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_d5a45b30d6631
 https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_e18f59e0d66311f0bc9439d52f00ee49/index.m3u8|Referer=https://shasha.com/
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SHASHA.png"group-title="SHASHA",SHASHA 3 LIVE
+https://254670.global.ssl.fastly.net/693a72c2102b1e0ac9bb3f14/live_ce323a70d66311f0891ac1acf28a6858/index.m3u8|Referer=https://shasha.com/
 
- 
 
- 
- 
+
+
+
  
 #EXTINF:-1 tvg-logo="https://qnetwork-production-bucket.s3-eu-west-1.amazonaws.com/logos/1648049258470_OetgH.png"group-title="SHASHA",SHASHA 1* LIVE
 https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_48531dd0d68011f089c69d31d64066d9/index.m3u8
@@ -872,28 +1014,43 @@ https://213368-castr.akamaized.net/65bdf582e043b56b0868a081/live_0586efe0c2e611e
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="KW 51",Kuwait TV 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="KW 51",Kuwait TV 1 FHD
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="KW 51",Kuwait TV 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lh2WOi.png" group-title="KW 51",Kuwait TV 2 FHD
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="KW 51",Kuwait Ethraa HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmFkaGZ.png" group-title="KW 51",Kuwait Ethraa FHD
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74gzjtR.png" group-title="KW 51",Kuwait Qurain HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74gzjtR.png" group-title="KW 51",Kuwait Qurain FHD
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJifVOt.png" group-title="KW 51",Kuwait Al-Arabi HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJifVOt.png" group-title="KW 51",Kuwait Al-Arabi FHD
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="KW 51",Kuwait Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="KW 51",Kuwait Sports FHD
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="KW 51",Kuwait Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="KW 51",Kuwait Sports 2 FHD
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmXnFCE.png" group-title="KW 51",Kuwait TV 1 
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9mr72Q.png" group-title="KW 51",Kuwait Sports 
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bG1lIa0.png" group-title="KW 51",Kuwait Sports 2 
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
 
@@ -922,10 +1079,7 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd
  
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BIG_264_Color.png" group-title="STC TV SPORT ©",STCtv BIGG TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e31c15dbde1ac4ddeba1566a1bbf7e0:79a541c99e9bb7815e257e4a4ff46dbb
-https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BIG_HEVC/wv-pr/manifest.mpd
+
 
 
 
@@ -1025,6 +1179,24 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/OMSP_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=433ce93f94bbb3a8c5888717ccb27bf4:f45e8e505b135d13d6e7361904e47a95
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSA24_HEVC/wv-pr/manifest.mpd
  
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BIG_264_Color.png" group-title="STC TV SPORT ©",STCtv BIGG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e31c15dbde1ac4ddeba1566a1bbf7e0:79a541c99e9bb7815e257e4a4ff46dbb
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BIG_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ONSP_264_Color.png" group-title="STC TV SPORT ©",STCtv ON SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=144db999c17b8259eff93042ebaa6afe:0a5730f4d5fe17ba090d169e171f4973
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ONSP_HEVC/wv-pr/manifest.mpd 
+
+
+
+
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KST_264_Color.png" group-title="STC TV SPORT ©",STCtv SBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1056,11 +1228,15 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/MBAH_HEVC/wv-pr/manifest.mpd
  
  
  
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
  
 
 
@@ -1716,6 +1892,39 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/OTV_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f8231bfef4a7c232dee1efb07cae5e:f1b1881976246c3e834b0e5396627e9e
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSASH_HEVC/wv-pr/manifest.mpd
 
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ONE_264_Color.png" group-title="STC TV ©",STCtv ON E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7326d560a9e50135d91e0c22c9f589e8:2a6b3e25cd0ff3f19e33a52e7341e6ee
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ONE_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/OND_264_Color.png" group-title="STC TV ©",STCtv ON DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61150a36a5ed957dd41bf69881041326:5a094e1441c243cbcd5d64dbff9e85fd
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/OND_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DMCHD_264_Color.png" group-title="STC TV ©",STCtv DMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d21aba8ce246031624260303189c1a0:e1ee80ac1dc31f54460a1a49484fbddf
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DMCHD_HEVC/wv-pr/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DMCSD_264_Color.png" group-title="STC TV ©",STCtv DMC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=249f374689d301bc1b7ee2867653d3c1:b1bd433bbcc18e31a9e68ab57beb1d17
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DMCSD_HEVC/wv-pr/manifest.mpd
  
 
 
@@ -2427,47 +2636,73 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Marathi/dash/drm/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png" group-title="Mobily Tv ©",MBC Action FHD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.twist-tv.com/prd-peg-data/default/images/logos/live/MBC1HD.svg" group-title="Mobily Tv ©",MBC 1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
+ 
+
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.twist-tv.com/prd-peg-data/default/images/logos/live/MBCActionHD.svg" group-title="Mobily Tv ©",MBC Action FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
  
  
- 
- #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png" group-title="Mobily Tv ©",MBC 2 FHD
+ #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.twist-tv.com/prd-peg-data/default/images/logos/live/MBC1HD.svg" group-title="Mobily Tv ©",MBC 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
  
  
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png" group-title="Mobily Tv ©",MBC 1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_1HD/DASH/MBC_1HD.mpd
- 
  
 
 
-
-
-
- 
- 
-#EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-iraq-logo.png" group-title="Mobily Tv ©",MBC Iraq HD
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.twist-tv.com/prd-peg-data/default/images/logos/live/MBCIraqHD.svg" group-title="Mobily Tv ©",MBC Iraq FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee3c6800ed41519b36a56d478c0ab4f3:6754ecbf2dab912e8cf09c9b1488bc4d
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Iraq_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Iraq_HD/DASH/MBC_Iraq_HD.mpd
+
+
+ 
+ 
+
+
+
+
+
  
 #EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png" group-title="Mobily Tv ©",MBC Plus eLife HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
- 
-#EXTINF:-1 tvg-logo="https://www.dubaitv.ae/images/logo.png" group-title="Mobily Tv ©",Dubai TV HD
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dubaitv.ae/images/logo.png" group-title="Mobily Tv ©",Dubai TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
- 
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Dubai_TV_HD/DASH/Dubai_TV_HD.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://www.almashhad.tv/images/logo.png" group-title="Mobily Tv ©",Al Mashhad TV
@@ -2476,10 +2711,11 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Mashhad_TV/DASH/Al_Mashhad_TV.mpd
 
 
-#EXTINF:-1  tvg-logo="xxxxx" group-title="Mobily Tv ©" ,Sharjah_TV_HD
+#EXTINF:-1  tvg-logo="xxxxx" group-title="Mobily Tv ©" ,Sharjah_TV_FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42b6689a5fee48dc1223f4abb3239653:ae1f89c1784da6447a303e4666f1bf61
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Sharjah_TV_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Sharjah_TV_HD/DASH/Sharjah_TV_HD.mpd
+
 
 
 #EXTINF:-1 tvg-logo="xxxx" group-title="Mobily Tv ©",FOX_News_HD
@@ -2495,7 +2731,9 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Fashion_TV_HD/DASH/Fashion_
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png" group-title="Mobily Tv ©",Cartoon Network Arabic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Cartoon_Network_Arabic/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
+
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cartoon_Network_2010_logo.svg" group-title="Mobily Tv ©",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2539,12 +2777,14 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/AsharqNews/DASH/AsharqNews.
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png" group-title="Mobily Tv ©",MBC 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29f3054bb2d3eaf8dd3f2e7ed82f344d:28069cb3e76ac3e45d007bcc99d6e50a
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_4_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_4_HD/DASH/MBC_4_HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr-logo.png" group-title="Mobily Tv ©",MBC Masr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e4a21fa466f6a6dadbe00bc882f1429:4716d679cf065556354df8134c4e8c99
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Maser/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Maser/DASH/MBC_Maser.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr2-logo.png" group-title="Mobily Tv ©",MBC Masr 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2559,22 +2799,26 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MB
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png" group-title="Mobily Tv ©",MBC 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_2_HD/DASH/MBC_2_HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc-bollywood-logo.png" group-title="Mobily Tv ©",MBC Bollywood HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dbba37d66620bd8b2d51572d9e201e8:7cf19a5f88f2762fc4a307e1389d8419
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Bollywood_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Bollywood_HD/DASH/MBC_Bollywood_HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc3-logo.png" group-title="Mobily Tv ©",MBC 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=789fdc6e5d26d121c4af76f659978a70:6ab0242bdaf4a7b0af4a54c9633a8e85
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_3_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_3_HD/DASH/MBC_3_HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.saudi.gov.sa/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Sx8Q4yMLPwtjAwd_T1CjM2cDf1N_Az1g81wAkEo0Qx3DgD4GGBE6O7q6m5s4Wlg6G5kYGluADfY38TQwN3A09gSKs8wB2M3hHj6uwQH-7vGQxS5O6oAAz9cNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/" group-title="Mobily Tv ©",Saudi 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b845ecd8e22295759d10481a2afc095e:e19b9883b13d3e9aca207e9a650f6451
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Saudi_1_HD/dash/drm/index.mpd
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Saudi_1_HD/DASH/Saudi_1_HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.sbc.sa/images/logo.png" group-title="Mobily Tv ©",SBC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2900,6 +3144,8 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
 
+
+
 #EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
 " group-title="ADMN ©", majid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2939,6 +3185,49 @@ https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
  
 #EXTINF:-1 tvg-logo="xxxx" group-title="4k",Love_Nature_4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
+
+
+#EXTINF:-1 group-title="4k",Stingray Festival 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:a7adcdd227b092c16636adcab908d77f
+https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
+#EXTINF:-1 group-title="4k",Fox sports 4k  event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="4k",FOX_4K
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="xxxx" group-title="4k",FOX_FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DE",FSBL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+#EXTINF:-1 group-title="Oqee",CANAL+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18ac06789510949f5fee55ee2274151:d7b9d6dba05741b1070d8c19743020f9
+https://api-proxad.oqee.net/playlist/v1/live/1555/1/live.mpd
 
 
 
