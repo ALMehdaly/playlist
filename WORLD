@@ -1,5 +1,40 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",alarabiya FM
+https://fm.alarabiya.net/fm/myStream/fm.alarabiya.m3u8
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",ROTANA FM
+https://rotanafm128.radioca.st/;:80/;stream.mp3
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", ufm
+https://stream.ufmradio.com:8003/;
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1200px-IRIB_FARATAR_UHD.png" group-title="4k",irib,4k
 https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
 
