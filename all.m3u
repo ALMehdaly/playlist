@@ -1,14 +1,13 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 15
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1
 https://fastly-live-dev.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIyMDAxOjE2YTI6YzE0ZDo3N2E3OjU1ZTg6M2FjNDo1NTI6ZjFmIiwiaXBfdjQiOiIiLCJpcF92NiI6IjIwMDE6MTZhMjpjMTRkOjc3YTc6NTVlODozYWM0OjU1MjpmMWYiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAuMSBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MTQ5MjAzOSwiZXhwIjoxNzkxNTM4ODk5LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTE0OTIwOTl9.2rg-4uKD4X2bh7ajzNOCX6onKdOyKcr8nfZ77txkp24/live/CH15/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 13
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1
 https://fastly-live-dev.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1REprMW1TSVVtUW4wTndOeGR1c2ZqNkVRVzMyIiwiY2hhbm5lbE5hbWUiOiJDSDE1IiwiaXAiOiIyMDAxOjE2YTI6YzE0ZDo3N2E3OjU1ZTg6M2FjNDo1NTI6ZjFmIiwiaXBfdjQiOiIiLCJpcF92NiI6IjIwMDE6MTZhMjpjMTRkOjc3YTc6NTVlODozYWM0OjU1MjpmMWYiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAuMSBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsIm5iZiI6MTc5MTQ5MjAzOSwiZXhwIjoxNzkxNTM4ODk5LCJnZW9CeXBhc3MiOmZhbHNlLCJpYXQiOjE3OTE0OTIwOTl9.2rg-4uKD4X2bh7ajzNOCX6onKdOyKcr8nfZ77txkp24/live/CH13/index.m3u8
 
 
