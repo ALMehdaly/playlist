@@ -235,12 +235,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel *
-https://live-news.asharq.com/asharq.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel FHD**
-https://live-news.asharq.com/asharq.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
@@ -265,12 +261,7 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?aws.manifestfilter=vide
 
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png"group-title="NEWS",BBC Arabic HD
@@ -299,6 +290,14 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 http://185.234.111.229:8000/play/a002
  
  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png"group-title="Main",Saudi TV HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8?aws.manifestfilter=video_height%3A1080
