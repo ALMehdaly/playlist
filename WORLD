@@ -21,8 +21,18 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 https://rotanafm128.radioca.st/;:80/;stream.mp3
 
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", ufm
-https://stream.ufmradio.com:8003/;
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", alif alif FM
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", UFM
+https://stream.ufmradio.com:8003
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MIX FM
+https://s1.voscast.com:11377/live.mp3
+
+
+
 
 
 
