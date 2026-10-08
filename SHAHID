@@ -408,6 +408,25 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d9
 #KODIPROP:inputstream.adaptive.license_key=e146f6abbcca4e8d916824312f496de4:dcd6c7a441ade43a7baceb777937bc91
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alkhuzama-radio/6f7a99c9c1eef9189c46d24b6cd862bf/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya 1080
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya 720
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=720&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya SD 360
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=360&video_codec=H264
  
  
  
