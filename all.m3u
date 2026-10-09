@@ -3429,14 +3429,21 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",alarabiya FM
 https://fm.alarabiya.net/fm/myStream/fm.alarabiya.m3u8
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/manifest/audio1/192kbps/audio.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM
-https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/manifest/audio1/192kbps/audio.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",ROTANA FM
@@ -3455,9 +3462,11 @@ https://s1.voscast.com:11377/live.mp3
 
 
 
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM v
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM v
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 
 
 
