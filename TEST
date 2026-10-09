@@ -15,6 +15,14 @@ https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlHadath.png"group-title="NEWS",Al Hadath FHD 
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
 
 
 
