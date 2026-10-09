@@ -1,8 +1,16 @@
 
 
+ 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Sky News Arabia ott
+https://stream.skynewsarabia.com/ott/ott.m3u8
 
 
-Skynews ara H
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/SkyNewsArabia.png"group-title="NEWS",Skynews ara H
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+
+
+
 
 
