@@ -14,6 +14,7 @@ on:
       - 'STCtv'
       - 'StarzPlay'
       - 'WORLD'
+      - 'RADIO'
       
 
 jobs:
@@ -31,7 +32,7 @@ jobs:
       - name: Merge playlists
         run: |
           echo "#EXTM3U" > vip.m3u
-          for file in ARABIC ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD ; do
+          for file in ARABIC ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD RADIO ; do
             if [ -f "$file" ]; then
               echo "" >> vip.m3u
               grep -v "^#EXTM3U" "$file" >> vip.m3u || true
