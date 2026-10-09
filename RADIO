@@ -2,17 +2,17 @@
 
 
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",ikhbariya RADIO 
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/a6/c5/fullhd_a8ef7fc54939da53972954f18454d7c3f058242d.jpg" group-title="RADIO",ikhbariya RADIO 
 https://live.kwikmotion.com/sbrksaikhbariyaradiolive/srpikhbariyaradio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",riyadh RADIO
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/0f/a8/fullhd_156247b912b4b408bf41754ceaa526f2b3763b4d.png" group-title="RADIO",riyadh RADIO
 https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",jeddah RADIO 
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/b0/18/fullhd_4a4caa0c11f2ecf5d2789a8caf378f218d0f1b9a.png" group-title="RADIO",jeddah RADIO 
 https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",khuzama FM
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/f6/e4/fullhd_6195324967e82ff3838b6c43c41ce7eb2d1fda99.jpg" group-title="RADIO",khuzama FM
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/playlist.m3u8
 
 
