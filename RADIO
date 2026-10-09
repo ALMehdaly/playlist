@@ -20,7 +20,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f7
 
 
 
-
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",khuzama FM
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/playlist.m3u8
 
 
 
@@ -46,3 +47,7 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 #EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM v
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",khuzama FM v
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
