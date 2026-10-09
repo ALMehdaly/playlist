@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",ikhbariya RADIO 
+https://live.kwikmotion.com/sbrksaikhbariyaradiolive/srpikhbariyaradio/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",alarabiya FM
