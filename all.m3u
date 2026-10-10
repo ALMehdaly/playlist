@@ -3779,6 +3779,9 @@ https://mysat-live.ercdn.net/almayadeentv/almayadeentv.m3u8
  
 
 
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",sky news ara FM
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+
 
 
 #EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/a6/c5/fullhd_a8ef7fc54939da53972954f18454d7c3f058242d.jpg" group-title="RADIO",ikhbariya RADIO 
