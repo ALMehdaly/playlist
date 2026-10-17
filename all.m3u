@@ -3776,6 +3776,37 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="caze1" tvg-name="CAZE TV 1" tvg-logo="" group-title="br",CAZE TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="caze2" tvg-name="CAZE TV 2" tvg-logo="" group-title="br",CAZE TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e29a3ae3eedc673503096ab8179f5a:a4e004efbccd9823219db7ddea93f8be
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoezwtr5/out/v1/bc4e3d26a68140e2bd257f843f40d885/cenc.mpd
+
+#EXTINF:-1 tvg-id="caze3" tvg-name="CAZE TV 3" tvg-logo="" group-title="br",CAZE TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tntsportbr" tvg-name="TNT SPORT BR" tvg-logo="" group-title="br",TNT SPORT BR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
+https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+
+
+
+
+
+
 
 #EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="mySAT" ,ART_Movies
 https://mysat-live.ercdn.net/artmovies/artmovies.m3u8
