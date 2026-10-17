@@ -8,12 +8,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel *
-https://live-news.asharq.com/asharq.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AsharqNews.png"group-title="NEWS",Asharq News Channel FHD**
-https://live-news.asharq.com/asharq.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+
  
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png"group-title="NEWS",Al Arabiya FHD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
@@ -38,12 +34,7 @@ https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?aws.manifestfilter=vide
 
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
-https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
- 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EKvZCD.png"group-title="NEWS",BBC Arabic HD
@@ -72,6 +63,14 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 http://185.234.111.229:8000/play/a002
  
  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera 2 FHD
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK875fY.png"group-title="NEWS",Al Jazeera Mubasher FHD
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCp0hUL.png"group-title="Main",Saudi TV HD
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8?aws.manifestfilter=video_height%3A1080
@@ -801,6 +800,25 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d9
 #KODIPROP:inputstream.adaptive.license_key=e146f6abbcca4e8d916824312f496de4:dcd6c7a441ade43a7baceb777937bc91
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alkhuzama-radio/6f7a99c9c1eef9189c46d24b6cd862bf/index.mpd?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya 1080
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya 720
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=720&video_codec=H264
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/AlArabiya.png" group-title="MBC-SHAHID",alarabiya SD 360
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=360&video_codec=H264
  
  
  
@@ -3168,6 +3186,31 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1200px-IRIB_FARATAR_UHD.png" group-title="4k",irib,4k
 https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
 
@@ -3417,3 +3460,115 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="caze1" tvg-name="CAZE TV 1" tvg-logo="" group-title="br",CAZE TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="caze2" tvg-name="CAZE TV 2" tvg-logo="" group-title="br",CAZE TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=25e29a3ae3eedc673503096ab8179f5a:a4e004efbccd9823219db7ddea93f8be
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/mhtoezwtr5/out/v1/bc4e3d26a68140e2bd257f843f40d885/cenc.mpd
+
+#EXTINF:-1 tvg-id="caze3" tvg-name="CAZE TV 3" tvg-logo="" group-title="br",CAZE TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dae7d37dc3129695521671bc863264:c7b9e01f0a4cadfad0c67d86eb7c8276
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/ese3ubkczc/out/v1/643cc7391b5c48af826b42ec34d7fdeb/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tntsportbr" tvg-name="TNT SPORT BR" tvg-logo="" group-title="br",TNT SPORT BR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
+https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="sp",mj 1
+https://smarter.majedcss.site/live/ch1/8c50e67699dc4457acce67ee30debe11.1791649160.1791659960.0.7e6d951b5f9b00856dd7ff1013c9fe37226e3afa44aa9f222c7d7a232384576b/master.css
+
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",sky news ara FM
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+
+
+
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/a6/c5/fullhd_a8ef7fc54939da53972954f18454d7c3f058242d.jpg" group-title="RADIO",ikhbariya RADIO 
+https://live.kwikmotion.com/sbrksaikhbariyaradiolive/srpikhbariyaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/0f/a8/fullhd_156247b912b4b408bf41754ceaa526f2b3763b4d.png" group-title="RADIO",riyadh RADIO
+https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/b0/18/fullhd_4a4caa0c11f2ecf5d2789a8caf378f218d0f1b9a.png" group-title="RADIO",jeddah RADIO 
+https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/f6/e4/fullhd_6195324967e82ff3838b6c43c41ce7eb2d1fda99.jpg" group-title="RADIO",khuzama FM
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",alarabiya FM
+https://fm.alarabiya.net/fm/myStream/fm.alarabiya.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/manifest/audio1/192kbps/audio.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/manifest/audio1/192kbps/audio.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",ROTANA FM
+https://rotanafm128.radioca.st/;:80/;stream.mp3
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", alif alif FM
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO", UFM
+https://stream.ufmradio.com:8003
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MIX FM
+https://s1.voscast.com:11377/live.mp3
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",MBC FM v
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",PANORAMA FM v
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",riyadh RADIO v
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",jeddah RADIO v
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="RADIO",khuzama FM v
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
