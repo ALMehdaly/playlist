@@ -7,6 +7,30 @@
 
 
 
+#EXTINF:-1 group-title="test",Fubo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+
+#EXTINF:-1 group-title="test",SKY LIVE EVENT 1 HD H265
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd392c41950c683745625ead341fcb0:622ef4857cf11f77df432ae9aec37962
+https://zap-live4-ott.izzigo.tv/6/out/u/dash/SKY-LIVE-EVENT-1-HD-H265/default.mpd
+
+
+#EXTINF:-1 group-title="test",DAZN DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ac2de7629f0e81b13d24680d327686:c985d2a1fbc0ab71c147a5aa6598b162
+https://tv3.zaltvindoku.workers.dev/cenc.mpd
+
+
+
+
+
 
 
 
