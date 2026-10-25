@@ -1,5 +1,13 @@
 
 
+#EXTINF:-1 tvg-id="abudhabi_sports_1" tvg-name="Abu Dhabi Sports 1" group-title="StarzPlay",Abu Dhabi Sports 1 tivi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starzplay.com/en/live||{"keys":[{"kid":"e78769d87a41e15036a4fb8bfdf1371e","k":"37be0375dc9fe544c3c6de6a105f7c0a"}],"type":"WIDEVINE"}|R{SSM}|
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/baynouahtv/active/8b723ad288abb23eeaf34ef4ab7e4f15.png" group-title="ADMN ©",baynounah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
