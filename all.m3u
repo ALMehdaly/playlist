@@ -2279,6 +2279,13 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DMCSD_HEVC/wv-pr/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-id="abudhabi_sports_1" tvg-name="Abu Dhabi Sports 1" group-title="StarzPlay",Abu Dhabi Sports 1 tivi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starzplay.com/en/live||{"keys":[{"kid":"e78769d87a41e15036a4fb8bfdf1371e","k":"37be0375dc9fe544c3c6de6a105f7c0a"}],"type":"WIDEVINE"}|R{SSM}|
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS1.png" group-title="StarzPlay ©",starzplay sports 1
@@ -2443,7 +2450,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd
 #KODIPROP:inputstream.adaptive.license_key=18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd
  
-#EXTINF:-1 group-title="StarzPlay ©",StarzPlay ©_KLASSICZ
+#EXTINF:-1 group-title="StarzPlay ©",StarzPlay KLASSICZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e02025dcc22f9e8014d3a1f9551078ba:d11b8ba4cd46bdf5b8e3502a3d8a6dad
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/STARZ_ON_KLASSICZ/dash/drm/index.mpd
