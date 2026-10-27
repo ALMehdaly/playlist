@@ -12,7 +12,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R08  full auto 26/27  itt newcode
+https://vod-cdn.prod.servers8.com/clone/23367158192504833/2600015009-ScheduleTask-a4720c7afd024f62ecf39f9bd897979dtt26_transcode_auto_1513595.m3u8
 
 
 
@@ -104,8 +105,21 @@ https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-a4720c7afd024f62e
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R08  full auto 26/27  itt newcode
-https://vod-cdn.prod.servers8.com/clone/23367158192504833/2600015009-ScheduleTask-a4720c7afd024f62ecf39f9bd897979dtt26_transcode_auto_1513595.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R09 full auto 26/27 xx
+ 
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-a4720c7afd024f62ecf39f9bd897979dtt26_transcode_auto_1513595.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R10 full auto 26/27 HAZ
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-f6b0704bf55c513c2ed99673d69041d6tt26_transcode_auto_1513595.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="8HIL",Thmanyah• Hil R11 full auto 26/27 QAD
+https://v2.thmanyahcdn.com/v2/schedule/2600015009-ScheduleTask-17b55b07c27ad9f403b3503537d0e9aftt26_transcode_auto_1513595.m3u8
+
 
 
 
