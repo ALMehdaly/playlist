@@ -3,13 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-id="abudhabi_sports_1" tvg-name="Abu Dhabi Sports 1" group-title="StarzPlay",Abu Dhabi Sports 1 tivi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://starzplay.com/en/live||{"keys":[{"kid":"e78769d87a41e15036a4fb8bfdf1371e","k":"37be0375dc9fe544c3c6de6a105f7c0a"}],"type":"WIDEVINE"}|R{SSM}|
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/STARZPLAYSPORTS1.png" group-title="StarzPlay ©",starzplay sports 1
@@ -848,10 +841,7 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama
 #KODIPROP:inputstream.adaptive.license_key=2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_plus_Drama_HD/dash/drm/index.mpd
  
-#EXTINF:-1 tvg-logo="https://asharq.com/wp-content/uploads/2021/11/asharq-logo.png" group-title="Mobily Tv ©",Asharq News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1586c18d11ce5b62266c3fe26884f544:24a1077fbb42787b8ad6588284e06a62
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/AsharqNews/DASH/AsharqNews.mpd
+
  
 #EXTINF:-1 tvg-logo="https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png" group-title="Mobily Tv ©",MBC 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1069,11 +1059,22 @@ https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Nahar_Drama/DASH/Al_Naha
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/CNBC_New/DASH/CNBC_New.mpd
 
 
+#EXTINF:-1 tvg-logo="https://asharq.com/wp-content/uploads/2021/11/asharq-logo.png" group-title="Mobily Tv ©",Asharq News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1586c18d11ce5b62266c3fe26884f544:24a1077fbb42787b8ad6588284e06a62
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/AsharqNews/DASH/AsharqNews.mpd
 
 
+#EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/cc.png" group-title="Mobily Tv ©" ,Asharq_Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f2ee1ce3c2563444efd0f2b7709b6ea:4d09232927b63330fc98d99e5bd870a9
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Asharq_Discovery/DASH/Asharq_Discovery.mpd
  
 
-
+#EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/cc.png" group-title="Mobily Tv ©" ,Asharq_Documentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103f7808a463e58cd17e7a597bcb8ae8:905c38362deca66ef427aa32760b68f7
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Asharq_Documentary/DASH/Asharq_Documentary.mpd
 
 
 
