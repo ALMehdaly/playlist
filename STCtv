@@ -871,4 +871,18 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DMCHD_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=249f374689d301bc1b7ee2867653d3c1:b1bd433bbcc18e31a9e68ab57beb1d17
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DMCSD_HEVC/wv-pr/manifest.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AOULA_264_Color.png" group-title="STC TV ©",STCtv DMC DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a9e4c91b7944084f1a032af92a49bd6:77f34170f0f689101aa130f64db84b46
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AOULA_HEVC/wv-pr/manifest.mpd
+
+
  
