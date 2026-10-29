@@ -635,21 +635,26 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
  
  
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SMRG",thaqafiya
+#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SRMG",thaqafiya
 
 https://live-thaqafiya.asharq.com/asharq.m3u8
  
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SMRG",asharq news
+#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SRMG",asharq news
 https://live-news.asharq.com/asharq.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SMRG",asharq discovery
+#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SRMG",asharq discovery
 https://live-discovery.asharq.com/asharq.m3u8
 
-#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SMRG",asharq documentary
+#EXTINF:-1 tvg-logo="https://xxx.png" group-title="SRMG",asharq documentary
 https://live-documentary.asharq.com/asharq.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="xxxxx.png" group-title="SRMG",Ashrq radio
+https://live-radio.asharq.com/asharq.m3u8
 
 
 
