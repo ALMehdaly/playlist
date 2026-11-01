@@ -2987,7 +2987,25 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Star_Action/DASH/Star_Action.mp
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Star_Movies/DASH/Star_Movies.mpd
 
 
-#EXTINF:-1 tvg-logo="https://.png" group-title="StarzPlay ©",Star_Movies
+
+#EXTINF:-1 tvg-logo="https://.png" group-title="StarzPlay ©",NatGeo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46617f19c4b153861c8ac31b457328c4:55306ac742dbf32a9712aa196168e09e
+https://ev-fast-mpd.starzplayarabia.com/live/eds/NatGeo/DASH/NatGeo.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://.png" group-title="StarzPlay ©",Nat_Geo_Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=390eb0507553c04dbcab2aed79e9d406:3ed702220ffb9cbd1c73f6c4ad656241
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Nat_Geo_Wild/DASH/Nat_Geo_Wild.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://.png" group-title="StarzPlay Asian ©",Star_Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e555f2ebc407542f2dcae962b6ab36ed:38973a7c5576c2fed33e37132f0a2643
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/STAR_Gold_main/dash/drm/index.mpd
