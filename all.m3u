@@ -400,13 +400,16 @@ https://stream.skynewsarabia.com/ott/ott.m3u8?aws.manifestfilter=video_codec:H26
 
  
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera web
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
  
  
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera  app
+https://live-hls-apps-aja-gcp.thehlive.com/AJA/index.m3u8
 
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMg5VRh.png"group-title="NEWS",Al Jazeera alaan  app
+https://live-hls-apps-aja2-gcp.thehlive.com/AJA2/index.m3u8
  
 
 
