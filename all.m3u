@@ -4063,6 +4063,11 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 
 
 
+#EXTINF:-1  tvg-logo="xxx" group-title="mytv" ,mbc 1 *
+https://raw.github.com/ALMehdaly/AHMED/TV/mbc100.m3u
+
+#EXTINF:-1  tvg-logo="xxx" group-title="mytv" ,mbc 1
+https://raw.github.com/ALMehdaly/AHMED/TV/MBC1.m3u
 
 
 
