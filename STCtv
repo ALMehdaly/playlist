@@ -809,10 +809,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBMOD_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=fb2af6f98931c04b31a5ae79e39d83e1:0543fa0ae14498726a4f79e13c697f80
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTS_HEVC/wv-pr/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTV_264_Color.png" group-title="STC TV ©",STCtv ROTANA CLIP
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTCL_264_Color.png" group-title="STC TV ©",STCtv ROTANA CLIP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed918632eb4ebfb816465238003ecc5e:d9c30b4c097a2a09e9dc65e84661e76b
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTV_HEVC/wv-pr/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=082e7f89ac809010493f4c06aa8c7683:76f89bbf9cf00ecd50338884159da480
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCL_HEVC/wv-pr/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTMP_264_Color.png" group-title="STC TV ©",STCtv ROTANA M+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
