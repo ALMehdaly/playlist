@@ -1,6 +1,27 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png" group-title="TEST ©",STCtv Sports HD 1 FASTLY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png" group-title="TEST ©",STCtv Sports HD 1 SCCC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png" group-title="TEST ©",STCtv Sports HD 1 akm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+https://akmrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd
+
+
 #EXTINF:-1  tvg-logo="xxx" group-title="mytv" ,mbc 1 *
 https://raw.github.com/ALMehdaly/AHMED/TV/mbc100.m3u
 
