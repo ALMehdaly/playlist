@@ -15,6 +15,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/ab
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/baynounah/baynounah_dash_enc/index.mpd
 
 
+#EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ADSPORTS1.png" group-title="ADMN ©" ,abudhabi_sports_1 hdr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1_hdr/abudhabi_sports_1_hdr_dash_enc/index.mpd
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/ADSPORTS1.png" group-title="ADMN ©" ,abudhabi_sports_1
