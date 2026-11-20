@@ -3,7 +3,39 @@
 
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/801m.m3u
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/811.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 12 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/812.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 13 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/813.m3u
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 14 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/814.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 15 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/815.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f tx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
