@@ -1,11 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 mj
-
-
-https://gcp-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTUyMDg0OTAsImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5NTE5MDQ5MCwiaXAiOiIxNTEuMjU1LjM3LjI0NCIsImlwX3Y0IjoiMTUxLjI1NS4zNy4yNDQiLCJpcF92NiI6IiIsImxpdmVJZCI6Ijg4MGF4NW8ydW55cmVpa2tlb2FvenZ6MTAiLCJsaXZlVHlwZSI6Im1hdGNoIiwibmJmIjoxNzk1MTkwNDMwLCJxdWFsaXR5RmlsdGVyIjoidmlkZW9fZHluYW1pY19yYW5nZTpzZHI7dmlkZW9faGVpZ2h0OjEtMjE2MCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNy4wIFNhZmFyaS82MDUuMS4xNSIsInVzZXJJZCI6IjVESmsxbVNJVW1RbjBOd054ZHVzZmo2RVFXMzIifQ._u_ELwnjdLwdQsXOrf81GAttnYbndTNsgJa6DXCDGcc/live/CH11/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/801m.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f tx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
