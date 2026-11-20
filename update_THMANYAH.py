@@ -3,7 +3,22 @@ import re
 def update_playlist():
     # أسماء الملفات
     TOKEN_FILE = "token.txt"
-    PLAYLIST_FILE = "THMANYAH"  # <--- تم التعديل هنا (بدون امتداد)
+    PLAYLIST_FILES = [
+
+    "THMANYAH",
+
+    "811.m3u",
+
+    "812.m3u",
+
+    "813.m3u",
+
+    "814.m3u",
+
+    "815.m3u",
+
+    "816.m3u"
+]  # <--- تم التعديل هنا (بدون امتداد)
 
     # 1. قراءة التوكن الجديد من الملف
     try:
