@@ -3,7 +3,7 @@ import re
 def update_playlist():
     TOKEN_FILE = "token.txt"
     PLAYLIST_FILES = [
-        "THMANYAH",  # عدّل الاسم إذا كان الملف بدون امتداد
+        "THMANYAH",
         "811.m3u",
         "812.m3u",
         "813.m3u",
