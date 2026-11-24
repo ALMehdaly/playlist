@@ -2,126 +2,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811
-https://raw.github.com/ALMehdaly/playlist/TV/811.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 812
-https://raw.github.com/ALMehdaly/playlist/TV/812.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 813
-https://raw.github.com/ALMehdaly/playlist/TV/813.m3u
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 814
-https://raw.github.com/ALMehdaly/playlist/TV/814.m3u
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 815
-https://raw.github.com/ALMehdaly/playlist/TV/815.m3u
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 816
-https://raw.github.com/ALMehdaly/playlist/TV/816.m3u
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/811.m3u
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 12 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/812.m3u
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 13 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/813.m3u
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 14 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/814.m3u
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 15 GIT
-https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/815.m3u
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f tx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://tx-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f alibaba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f hw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://hw-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f akamai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f fastly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://fastly-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f gcp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://gcp-live.servers8.com/https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTUyMjIxNTksImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5NTIwNDE1OSwiaXAiOiIyLjkwLjExOC4yMDgiLCJpcF92NCI6IjIuOTAuMTE4LjIwOCIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiODgwYXg1bzJ1bnlyZWlra2VvYW96dnoxMCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTUyMDQwOTksInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.JZ-0maKp5wVJVDFSXfjngqzRScKeL50VLkivdb3PchU/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&start=1795189500/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f cloud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 aka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTMiLCJleHAiOjE3OTM0OTI1MTksImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5MzQ3NDUxOSwiaXAiOiIxODguNDkuMjEzLjE4OCIsImlwX3Y0IjoiMTg4LjQ5LjIxMy4xODgiLCJpcF92NiI6IiIsImxpdmVJZCI6IjhoOGhsZ3l1ZGpyNnF2d2E3ZjE0ZHY3cm8iLCJsaXZlVHlwZSI6Im1hdGNoIiwibmJmIjoxNzkzNDc0NDU5LCJxdWFsaXR5RmlsdGVyIjoidmlkZW9fZHluYW1pY19yYW5nZTpzZHI7dmlkZW9faGVpZ2h0OjEtMjE2MCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNy4wIFNhZmFyaS82MDUuMS4xNSIsInVzZXJJZCI6IjVESmsxbVNJVW1RbjBOd054ZHVzZmo2RVFXMzIifQ.NUnoXp9uudjFTdU52GdZvY3ANup9n2xXObhUvYPRRps/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793474549-1005d753d8be72a4e7abbd8790dc1215-0-a31a493433c8781ef5b3ac30ec0c9ce1&start=1793465100
-
-
-#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 fastly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
-
-https://fastly-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTI3MDMxMzEsImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOmZhbHNlLCJpYXQiOjE3OTI2ODUxMzEsImlwIjoiMi45MC45MS4xNTIiLCJpcF92NCI6IjIuOTAuOTEuMTUyIiwiaXBfdjYiOiIiLCJsaXZlSWQiOiI4ZTFoZmNvaXQya3hncWFndGwyYnh5anY4IiwibGl2ZVR5cGUiOiJtYXRjaCIsIm5iZiI6MTc5MjY4NTA3MSwicXVhbGl0eUZpbHRlciI6ImF1ZGlvX2xhbmd1YWdlOmFyYSxlbmcsZnJhO3ZpZGVvX2R5bmFtaWNfcmFuZ2U6c2RyO3ZpZGVvX2hlaWdodDoxLTM2MCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNy4wIFNhZmFyaS82MDUuMS4xNSIsInVzZXJJZCI6IjlpTVM0TlJLS21YY244R3dBY3dsWkRFWDdVSTMifQ.mAkjb4KrQNNXToBK01R3hw6ko7ATAlzvQc3gdNc8Lcs/live/CH11/index.m3u8
 
 
 
@@ -429,3 +309,160 @@ https://gcp-live.servers8.com/https://akamai-live.servers8.com/eyJhbGciOiJIUzI1N
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH CH-FTA",Thmanyah 20
 https://gcp-live.servers8.com/https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTUyMjIxNTksImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5NTIwNDE1OSwiaXAiOiIyLjkwLjExOC4yMDgiLCJpcF92NCI6IjIuOTAuMTE4LjIwOCIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiODgwYXg1bzJ1bnlyZWlra2VvYW96dnoxMCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTUyMDQwOTksInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.JZ-0maKp5wVJVDFSXfjngqzRScKeL50VLkivdb3PchU/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&start=1795189500/live/CH20-FTA/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811
+https://raw.github.com/ALMehdaly/playlist/TV/811.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 812
+https://raw.github.com/ALMehdaly/playlist/TV/812.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 813
+https://raw.github.com/ALMehdaly/playlist/TV/813.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 814
+https://raw.github.com/ALMehdaly/playlist/TV/814.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 815
+https://raw.github.com/ALMehdaly/playlist/TV/815.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 816
+https://raw.github.com/ALMehdaly/playlist/TV/816.m3u
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/811.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 12 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/812.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 13 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/813.m3u
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 14 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/814.m3u
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 15 GIT
+https://raw.githubusercontent.com/ALMehdaly/AHMED/refs/heads/TV/815.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f tx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://tx-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f alibaba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://alibaba-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f hw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://hw-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f akamai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f fastly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://fastly-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f gcp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://gcp-live.servers8.com/https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTUyMjIxNTksImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5NTIwNDE1OSwiaXAiOiIyLjkwLjExOC4yMDgiLCJpcF92NCI6IjIuOTAuMTE4LjIwOCIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiODgwYXg1bzJ1bnlyZWlra2VvYW96dnoxMCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTUyMDQwOTksInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.JZ-0maKp5wVJVDFSXfjngqzRScKeL50VLkivdb3PchU/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&start=1795189500/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah ch2 f cloud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://cloudfront-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMDItRlRBIiwiZXhwIjoxNzkzNTYzOTYzLCJnZW9CeXBhc3MiOmZhbHNlLCJoYXNTdWJzY3JpcHRpb25zIjp0cnVlLCJpYXQiOjE3OTM1NDU5NjMsImlwIjoiMTUxLjI1NS45Ny45MyIsImlwX3Y0IjoiMTUxLjI1NS45Ny45MyIsImlwX3Y2IjoiIiwibGl2ZUlkIjoiOWI2b2hmOWh4c3pud2NqdXFyMmNuNTlnNCIsImxpdmVUeXBlIjoibWF0Y2giLCJuYmYiOjE3OTM1NDU5MDMsInF1YWxpdHlGaWx0ZXIiOiJ2aWRlb19keW5hbWljX3JhbmdlOnNkcjt2aWRlb19oZWlnaHQ6MS0yMTYwIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI3LjAgU2FmYXJpLzYwNS4xLjE1IiwidXNlcklkIjoiNURKazFtU0lVbVFuME53TnhkdXNmajZFUVczMiJ9.3cGh1MlEW0YwlomJ8nsFshLbrz9APV8DbhoCEjGJ8es/live/CH02-FTA/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793545993-c94ad3e835751cbaee8e82bbfad18f9b-0-62a19c22a472e52ec888055e3da46bf0&start=1793543400
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 aka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://akamai-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTMiLCJleHAiOjE3OTM0OTI1MTksImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOnRydWUsImlhdCI6MTc5MzQ3NDUxOSwiaXAiOiIxODguNDkuMjEzLjE4OCIsImlwX3Y0IjoiMTg4LjQ5LjIxMy4xODgiLCJpcF92NiI6IiIsImxpdmVJZCI6IjhoOGhsZ3l1ZGpyNnF2d2E3ZjE0ZHY3cm8iLCJsaXZlVHlwZSI6Im1hdGNoIiwibmJmIjoxNzkzNDc0NDU5LCJxdWFsaXR5RmlsdGVyIjoidmlkZW9fZHluYW1pY19yYW5nZTpzZHI7dmlkZW9faGVpZ2h0OjEtMjE2MCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNy4wIFNhZmFyaS82MDUuMS4xNSIsInVzZXJJZCI6IjVESmsxbVNJVW1RbjBOd054ZHVzZmo2RVFXMzIifQ.NUnoXp9uudjFTdU52GdZvY3ANup9n2xXObhUvYPRRps/live/CH11/index.m3u8?aws.manifestfilter=video_codec%3Ah265%3Bvideo_dynamic_range%3Asdr%3Bvideo_framerate%3A50%3Bvideo_height%3A1-2160&auth_key=1793474549-1005d753d8be72a4e7abbd8790dc1215-0-a31a493433c8781ef5b3ac30ec0c9ce1&start=1793465100
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH test CH",Thmanyah 11 fastly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Safari/605.1.15
+
+https://fastly-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsTmFtZSI6IkNIMTEiLCJleHAiOjE3OTI3MDMxMzEsImdlb0J5cGFzcyI6ZmFsc2UsImhhc1N1YnNjcmlwdGlvbnMiOmZhbHNlLCJpYXQiOjE3OTI2ODUxMzEsImlwIjoiMi45MC45MS4xNTIiLCJpcF92NCI6IjIuOTAuOTEuMTUyIiwiaXBfdjYiOiIiLCJsaXZlSWQiOiI4ZTFoZmNvaXQya3hncWFndGwyYnh5anY4IiwibGl2ZVR5cGUiOiJtYXRjaCIsIm5iZiI6MTc5MjY4NTA3MSwicXVhbGl0eUZpbHRlciI6ImF1ZGlvX2xhbmd1YWdlOmFyYSxlbmcsZnJhO3ZpZGVvX2R5bmFtaWNfcmFuZ2U6c2RyO3ZpZGVvX2hlaWdodDoxLTM2MCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8yNy4wIFNhZmFyaS82MDUuMS4xNSIsInVzZXJJZCI6IjlpTVM0TlJLS21YY244R3dBY3dsWkRFWDdVSTMifQ.mAkjb4KrQNNXToBK01R3hw6ko7ATAlzvQc3gdNc8Lcs/live/CH11/index.m3u8
+
