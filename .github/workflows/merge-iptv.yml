@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - 'THMANYAH'
+      - 'GIT'
       - 'ARABIC'
       - 'ROTANA'
       - 'SHAHID'
@@ -35,7 +36,7 @@ jobs:
       - name: Merge playlists
         run: |
           echo "#EXTM3U" > all.m3u
-          for file in THMANYAH ARABIC ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD MySAT RADIO VOD ; do
+          for file in THMANYAH GIT ARABIC ROTANA SHAHID SHOOF SHASHA STCtv StarzPlay WORLD MySAT RADIO VOD ; do
             if [ -f "$file" ]; then
               echo "" >> all.m3u
               grep -v "^#EXTM3U" "$file" >> all.m3u || true
