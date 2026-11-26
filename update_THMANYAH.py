@@ -6,6 +6,9 @@ def update_playlist():
 
     PLAYLIST_FILES = [
         "THMANYAH",
+        "811SDR4k",
+        "812SDR4k",
+        "813SDR4k",
         "811.m3u",
         "812.m3u",
         "813.m3u",
