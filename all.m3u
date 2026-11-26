@@ -438,6 +438,20 @@ https://fastly-live.servers8.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubm
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811 4k SDR
+https://raw.github.com/ALMehdaly/playlist/TV/811SDR4k.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 812 4k SDR
+https://raw.github.com/ALMehdaly/playlist/TV/812SDR4k.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 813 4k SDR
+https://raw.github.com/ALMehdaly/playlist/TV/813SDR4k.m3u
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811
 https://raw.github.com/ALMehdaly/playlist/TV/811.m3u
