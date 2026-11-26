@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add THMANYAH 811.m3u 812.m3u 813.m3u 814.m3u 815.m3u 816.m3u
+          git add THMANYAH 811SDR4k.m3u 812SDR4k.m3u 813SDR4k.m3u 811.m3u 812.m3u 813.m3u 814.m3u 815.m3u 816.m3u
           if git diff --staged --quiet; then
             echo "لا توجد تغييرات للرفع"
           else
