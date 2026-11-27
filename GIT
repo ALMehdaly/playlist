@@ -16,6 +16,24 @@ https://raw.github.com/ALMehdaly/playlist/TV/813SDR4k.m3u
 
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811 FHD SDR
+https://raw.github.com/ALMehdaly/playlist/TV/811FHD.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 812 FHD SDR
+https://raw.github.com/ALMehdaly/playlist/TV/812FHD.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 813 FHD SDR
+https://raw.github.com/ALMehdaly/playlist/TV/813FHD.m3u
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png" group-title="THMANYAH GITHUB CH",Thmanyah 811
 https://raw.github.com/ALMehdaly/playlist/TV/811.m3u
 
